@@ -27,6 +27,6 @@ Professor Kevin Nichols<br>
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Kristen Giovanetto     | https://kristen-giovanetto.github.io/Giovanetto_EGR304DataSheetTemplate/ |
-| Name #2                | link |
+| Diego Suarez           | https://github.com/dsuare10/dsuare10_EGR304_F26.github.io |
 | Name #3                | link |
 | Name #4                | link |
