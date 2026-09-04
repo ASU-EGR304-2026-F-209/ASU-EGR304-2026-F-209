@@ -28,5 +28,5 @@ Professor Kevin Nichols<br>
 | ---------------------- | -----------------------|
 | Kristen Giovanetto     | https://kristen-giovanetto.github.io/Giovanetto_EGR304DataSheetTemplate/ |
 | Diego Suarez           | https://github.com/dsuare10/dsuare10_EGR304_F26.github.io |
-| Name #3                | link |
+| Zainan Zarif           | https://zainanzarif.github.io/ZainanZarif_EGR304_F26.github.io/ |
 | Name #4                | link |
