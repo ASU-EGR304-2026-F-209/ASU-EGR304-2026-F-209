@@ -8,7 +8,7 @@ tags:
 <font size="8">Project Name<br>
 <font size="5">Team 209<br>
 **Submission: September, 02, 2026**<br>
-Semester and Year<br>
+FALL 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
 Professor Kevin Nichols<br>
