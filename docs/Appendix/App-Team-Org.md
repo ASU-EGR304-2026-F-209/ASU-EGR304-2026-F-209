@@ -20,7 +20,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Member 1 |  ? | ? | ? |
+|Kristen Giovanetto |  Discord | Messages | Slack |
 |Member 2 |  ? | ? | ? |
 |Zainan Zarif|Discord|Slack|Messaging|
 |Member 4 |  ? | ? | ? |
@@ -42,16 +42,16 @@ _**Appendix Table 2**: Weekly Schedule_
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
 | 8:00 AM | - | - | M | - | M | - | - |
 | 9:00 AM | - | F | M | - | M | - | - |
-| 10:00 AM | - | B | M | - | M | - | - |
-| 11:00 AM | - | B | M | - | M | - | - |
-| 12:00 PM | Z | B, Z | M | - | M | - | - |
-| 1:00 PM | Z, F |  | M | - | M | - | - |
-| 2:00 PM | Z, F | - | M | - | M | - | - |
-| 3:00 PM | Z | - | M | - | M | - | - |
-| 4:00 PM | - | - | M | - | M | - | - |
-| 5:00 PM | - | - | M | - | M | - | - |
-| 6:00 PM | - | - | M | - | M | - | - |
-| 7:00 PM | - | - | M | - | M | - | - |
+| 10:00 AM | - | B | M | - | M, K | - | - |
+| 11:00 AM | - | B | M | - | M, K | - | - |
+| 12:00 PM | Z | B, Z, K | M | - | M | K | - |
+| 1:00 PM | Z, F, K | - | M | - | M | K | - |
+| 2:00 PM | Z, F, K | - | M, K | - | M, K | K | - |
+| 3:00 PM | Z, K | - | M, K | - | M, K | K | - |
+| 4:00 PM | K | - | M, K | - | M, K | K | - |
+| 5:00 PM | K | K | M, K | K | M | K | - |
+| 6:00 PM | - | K | M, K | K | M | - | - |
+| 7:00 PM | - | K | M, K | K | M | - | - |
 | 8:00 PM | - | - | M | - | M | - | - |
 | 9:00 PM | - | - | M | - | M | - | - |
 
