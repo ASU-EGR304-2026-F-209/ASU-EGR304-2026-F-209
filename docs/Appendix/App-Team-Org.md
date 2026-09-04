@@ -7,7 +7,12 @@ tags:
 
 ## Team Goals
 
-List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
+- Build a meaningful and functional product that creates a positive impact and solves a real problem.
+- Maintain positive team energy where members feel comfortable asking questions, sharing ideas, and giving constructive feedback.
+- Continuously test and improve the design based on feedback from teammates, peers, instructors, and testing results.
+- Create a strong team bond and a productive, collaborative environment where members can learn from and support each other.
+- Develop practical engineering, problem-solving, and project-management skills that can be applied to future projects and careers.
+- Create a final product that the entire team can confidently demonstrate and be proud of.
 
 ## Communication Channels
 
@@ -17,7 +22,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Member 1 |  ? | ? | ? |
 |Member 2 |  ? | ? | ? |
-|Member 3 |  ? | ? | ? |
+|Zainan Zarif|Discord|Slack|Messaging|
 |Member 4 |  ? | ? | ? |
 
 ### Main Method for Group Communication
@@ -26,8 +31,8 @@ Based on the information provided on in the "Team Member Communication Modes," t
  
 ## Communication Procedures
 
-1. How will your team communicate?
-2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
+Instructor correspondence will be handled through email or by speaking with the instructor directly during class when appropriate. Our team member ____________ is responsible for instructor communication. Any questions or concerns for Dr.Nichols will be discussed with the team before being communicated. Any responses, feedback, or other important information will then be shared with all group members through our Discord group chat.
+
 
 ## Meeting Schedule
 
@@ -54,18 +59,19 @@ _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 | ----- | :------: |
-| Bill | B |
-| Mary | M |
-| Zane | Z |
-| Felicity | F |
+| Kristen | K |
+| Diego | D |
+| Zainan | Z |
+| Ruben | R |
 
 
 ## Meeting Coordination
 
-1. What method will you use to remind yourselves of meetings (a shared calendar?)
-1. How will your team go about changing or adding meeting times?
-1. What's the preferred format for meetings (face-to-face or virtually)?
-1. Are there any other procedures that your team feels are necessary?
+Meeting Reminders: We will use Discord as our main reminder system. Meeting dates and times will be posted in the group channel, with reminders sent before upcoming meetings.
+
+Changing or Adding Meetings: Any team member who needs to add or change a meeting time should inform the group through Discord in advance. The team will discuss availability and agree on a time that works for everyone.
+
+Preferred Meeting Format: Since team members have different schedules and class times, meetings may be held virtually through Zoom when needed. When possible, we prefer face-to-face meetings, especially before or after class.
 
 ## Roles & Responsibilities
 
