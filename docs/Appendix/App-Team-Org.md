@@ -23,7 +23,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Member 1 |  ? | ? | ? |
 |Member 2 |  ? | ? | ? |
 |Zainan Zarif|Discord|Slack|Messaging|
-|Member 4 |  ? | ? | ? |
+|Ruben Esquer|  Discord | Messages | Email |
 
 ### Main Method for Group Communication
 
@@ -45,15 +45,15 @@ _**Appendix Table 2**: Weekly Schedule_
 | 10:00 AM | - | B | M | - | M | - | - |
 | 11:00 AM | - | B | M | - | M | - | - |
 | 12:00 PM | Z | B, Z | M | - | M | - | - |
-| 1:00 PM | Z, F |  | M | - | M | - | - |
-| 2:00 PM | Z, F | - | M | - | M | - | - |
-| 3:00 PM | Z | - | M | - | M | - | - |
-| 4:00 PM | - | - | M | - | M | - | - |
-| 5:00 PM | - | - | M | - | M | - | - |
+| 1:00 PM | Z, F | R | M | R | M | - | - |
+| 2:00 PM | Z, R, F | R | M | R | M | - | - |
+| 3:00 PM | Z, R | - | M | - | M | - | - |
+| 4:00 PM | R | - | M | - | M | - | - |
+| 5:00 PM | R | - | M | - | M | - | - |
 | 6:00 PM | - | - | M | - | M | - | - |
-| 7:00 PM | - | - | M | - | M | - | - |
-| 8:00 PM | - | - | M | - | M | - | - |
-| 9:00 PM | - | - | M | - | M | - | - |
+| 7:00 PM | - | R | M, R | R | M, R | - | - |
+| 8:00 PM | - | R | M, R | R | M, R | - | - |
+| 9:00 PM | - | R | M, R | R | M, R | - | - |
 
 _**Table Legend for Appendix Table 2**_
 
