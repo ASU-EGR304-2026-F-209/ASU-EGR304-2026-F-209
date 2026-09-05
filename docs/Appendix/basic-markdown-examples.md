@@ -4,26 +4,22 @@ title: Appendix - Basic Markdown Examples
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+
 
 ## Research Question
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+* __________
+* __________
+* __________
 
 ## Images
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
-**Figure 2:** Early PCB working design
+**Figure 1:** _________
 
 
-![showcase](ImageShowcase.png)
-**Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.
+
+**Figure 2:** __________
 
 
 ## Results
@@ -36,7 +32,7 @@ _Italic Text_
 
 ## External Links
 
-[example link to idealab](https://idealab.asu.edu)
+
 
 
 ## Results
@@ -47,9 +43,10 @@ _Italic Text_
 
 ## Conclusions and Future Work
 
+
 ## External Links
 
-[example link to idealab](https://idealab.asu.edu)
+
 
 
 ## References

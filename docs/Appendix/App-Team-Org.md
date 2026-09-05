@@ -20,18 +20,18 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Member 1 |  ? | ? | ? |
-|Member 2 |  ? | ? | ? |
+|Kristen Giovanetto |  Discord | Messages | Email |
+|Diego Suarez |  Discord | Messages | Email |
 |Zainan Zarif|Discord|Slack|Messaging|
 |Ruben Esquer|  Discord | Messages | Email |
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is ......
+Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is through discord.
  
 ## Communication Procedures
 
-Instructor correspondence will be handled through email or by speaking with the instructor directly during class when appropriate. Our team member ____________ is responsible for instructor communication. Any questions or concerns for Dr.Nichols will be discussed with the team before being communicated. Any responses, feedback, or other important information will then be shared with all group members through our Discord group chat.
+Instructor correspondence will be handled through email or by speaking with the instructor directly during class when appropriate. Our team member Kristen, is responsible for instructor communication. Any questions or concerns for Dr.Nichols will be discussed with the team before being communicated. Any responses, feedback, or other important information will then be shared with all group members through our Discord group chat.
 
 
 ## Meeting Schedule
@@ -40,20 +40,20 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | M | - | M | - | - |
-| 9:00 AM | - | F | M | - | M | - | - |
-| 10:00 AM | - | B | M | - | M | - | - |
-| 11:00 AM | - | B | M | - | M | - | - |
-| 12:00 PM | Z | B, Z | M | - | M | - | - |
-| 1:00 PM | Z, F | R | M | R | M | - | - |
-| 2:00 PM | Z, R, F | R | M | R | M | - | - |
-| 3:00 PM | Z, R | - | M | - | M | - | - |
-| 4:00 PM | R | - | M | - | M | - | - |
-| 5:00 PM | R | - | M | - | M | - | - |
-| 6:00 PM | - | - | M | - | M | - | - |
-| 7:00 PM | - | R | M, R | R | M, R | - | - |
-| 8:00 PM | - | R | M, R | R | M, R | - | - |
-| 9:00 PM | - | R | M, R | R | M, R | - | - |
+| 8:00 AM | - | - | - | - | - | - | - |
+| 9:00 AM | - | - | - | - | - | - | - |
+| 10:00 AM | - | - | - | - | K | - | D |
+| 11:00 AM | - | Z | - | - | K | - | D |
+| 12:00 PM |  | Z, K | - | - | - | K | - |
+| 1:00 PM | D, K | - | - | - | - | K | - |
+| 2:00 PM | D, K | - | D, Z, K | - | D, Z, K | K | - |
+| 3:00 PM | D, K | - | D, Z, K | - | D, Z, K | K | - |
+| 4:00 PM | D, K | - | D, Z, K | - | D, Z, K | K | - |
+| 5:00 PM | D, K | K | D, K | K | - | K | - |
+| 6:00 PM | - | K | K | D, K | - | - | - |
+| 7:00 PM | - | K | K | D, K | - | - | - |
+| 8:00 PM | - | - | - | - | - | - | - |
+| 9:00 PM | - | - | - | - | - | - | - |
 
 _**Table Legend for Appendix Table 2**_
 
@@ -79,17 +79,23 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 | **Role**          | **Duties**                                                                                                                                |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
-| Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
-| Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
-| Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+| Meeting leader (K)   | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
+| Meeting recorder (D)  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
+| Assignment leader (Z) | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
+| Project monitor  (R) | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 ## Conflict Recognition & Resolution
 
-Need to add content!!
+- Address conflicts or disagreements early rather than allowing them to affect the team or project.
+- Give every team member an equal opportunity to explain their concerns, opinions, and perspective.
+- Try to reach a solution or compromise that the team can collectively agree on.
+- If the team cannot resolve a significant conflict internally, seek guidance from the instructor.
 
 
 ## Signatures
 
-Need to add content!!
+Diego Suarez<br>
+Kristen Giovanetto<br>
+Ruben Esquer<br>
+Zainan Zarif<br>
 

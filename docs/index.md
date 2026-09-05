@@ -7,7 +7,7 @@ tags:
 <center>
 <font size="8">Project Name<br>
 <font size="5">Team 209<br>
-**Submission: September, 02, 2026**<br>
+**Submission: September, 04, 2026**<br>
 FALL 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
@@ -29,4 +29,4 @@ Professor Kevin Nichols<br>
 | Kristen Giovanetto     | https://kristen-giovanetto.github.io/Giovanetto_EGR304DataSheetTemplate/ |
 | Diego Suarez           | https://github.com/dsuare10/dsuare10_EGR304_F26.github.io |
 | Zainan Zarif           | https://zainanzarif.github.io/ZainanZarif_EGR304_F26.github.io/ |
-| Ruben Esquer               | https://github.com/rdesquer-png/rdesquer-png_EGR304_S26.github.io |
+| Ruben Esquer           | https://github.com/rdesquer-png/rdesquer-png_EGR304_S26.github.io |
