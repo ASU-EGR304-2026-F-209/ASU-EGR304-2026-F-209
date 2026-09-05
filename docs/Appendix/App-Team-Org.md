@@ -46,14 +46,14 @@ _**Appendix Table 2**: Weekly Schedule_
 | 11:00 AM | - | Z | - | - | K | - | D |
 | 12:00 PM |  | Z, K | - | - | - | K | - |
 | 1:00 PM | D, K | - | - | - | - | K | - |
-| 2:00 PM | D, K | - | D, Z, K | - | D, Z, K | K | - |
-| 3:00 PM | D, K | - | D, Z, K | - | D, Z, K | K | - |
-| 4:00 PM | D, K | - | D, Z, K | - | D, Z, K | K | - |
-| 5:00 PM | D, K | K | D, K | K | - | K | - |
-| 6:00 PM | - | K | K | D, K | - | - | - |
-| 7:00 PM | - | K | K | D, K | - | - | - |
-| 8:00 PM | - | - | - | - | - | - | - |
-| 9:00 PM | - | - | - | - | - | - | - |
+| 2:00 PM | D, K, R | - | D, Z, K, R | - | D, Z, K | K | - |
+| 3:00 PM | D, K, R | - | D, Z, K, R | - | D, Z, K | K | - |
+| 4:00 PM | D, K, R | - | D, Z, K, R | - | D, Z, K | K | - |
+| 5:00 PM | D, K, R | K | D, K, R | K | - | K | - |
+| 6:00 PM | - | K | K, R | D, K | - | - | - |
+| 7:00 PM | - | K | K, R | D, K | - | - | - |
+| 8:00 PM | - | R | R | R | - | - | - |
+| 9:00 PM | - | R | R | R | - | - | - |
 
 _**Table Legend for Appendix Table 2**_
 
