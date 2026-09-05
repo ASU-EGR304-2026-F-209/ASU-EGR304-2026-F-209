@@ -29,4 +29,4 @@ Our team is developing a device, an embedded systems solution designed to improv
 | Kristen Giovanetto     | https://kristen-giovanetto.github.io/Giovanetto_EGR304DataSheetTemplate/ |
 | Diego Suarez           | https://github.com/dsuare10/dsuare10_EGR304_F26.github.io |
 | Zainan Zarif           | https://zainanzarif.github.io/ZainanZarif_EGR304_F26.github.io/ |
-| Ruben Esquer           | https://github.com/rdesquer-png/rdesquer-png_EGR304_S26.github.io |
+| Ruben Esquer           | https://github.com/rdesquer-png/rdesquer-png_EGR304_F26.github.io |
