@@ -27,11 +27,11 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is ......
+Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is through discord.
  
 ## Communication Procedures
 
-Instructor correspondence will be handled through email or by speaking with the instructor directly during class when appropriate. Our team member ____________ is responsible for instructor communication. Any questions or concerns for Dr.Nichols will be discussed with the team before being communicated. Any responses, feedback, or other important information will then be shared with all group members through our Discord group chat.
+Instructor correspondence will be handled through email or by speaking with the instructor directly during class when appropriate. Our team member Kristen, is responsible for instructor communication. Any questions or concerns for Dr.Nichols will be discussed with the team before being communicated. Any responses, feedback, or other important information will then be shared with all group members through our Discord group chat.
 
 
 ## Meeting Schedule
@@ -42,13 +42,13 @@ _**Appendix Table 2**: Weekly Schedule_
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
 | 8:00 AM | - | - | - | - | - | - | - |
 | 9:00 AM | - | - | - | - | - | - | - |
-| 10:00 AM | - | B | - | - | K | - | - |
-| 11:00 AM | - | B | - | - | K | - | - |
-| 12:00 PM | Z | B, Z, K | - | - | - | K | - |
-| 1:00 PM | Z, K | - | - | - | - | K | - |
-| 2:00 PM | Z, K | - | K | - | K | K | - |
-| 3:00 PM | Z, K | - | K | - | K | K | - |
-| 4:00 PM | K | - | K | - | K | K | - |
+| 10:00 AM | - | - | - | - | K | - | - |
+| 11:00 AM | - | Z | - | - | K | - | - |
+| 12:00 PM |  | Z, K | - | - | - | K | - |
+| 1:00 PM |  K | - | - | - | - | K | - |
+| 2:00 PM |  K | - | Z,K | - | Z,K | K | - |
+| 3:00 PM |  K | - | Z,K | - | Z,K | K | - |
+| 4:00 PM | K | - | Z,K | - | Z,K | K | - |
 | 5:00 PM | K | K | K | K | - | K | - |
 | 6:00 PM | - | K | K | K | - | - | - |
 | 7:00 PM | - | K | K | K | - | - | - |
@@ -86,10 +86,16 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Conflict Recognition & Resolution
 
-Need to add content!!
+- Address conflicts or disagreements early rather than allowing them to affect the team or project.
+- Give every team member an equal opportunity to explain their concerns, opinions, and perspective.
+- Try to reach a solution or compromise that the team can collectively agree on.
+- If the team cannot resolve a significant conflict internally, seek guidance from the instructor.
 
 
 ## Signatures
 
-Need to add content!!
+Diego Suarez
+Kristen Giovanetto
+Ruben Esquer
+Zainan Zarif
 
