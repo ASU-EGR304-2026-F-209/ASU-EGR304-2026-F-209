@@ -94,8 +94,8 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Signatures
 
-Diego Suarez
-Kristen Giovanetto
-Ruben Esquer
-Zainan Zarif
+Diego Suarez<br>
+Kristen Giovanetto<br>
+Ruben Esquer<br>
+Zainan Zarif<br>
 
