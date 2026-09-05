@@ -46,9 +46,9 @@ _**Appendix Table 2**: Weekly Schedule_
 | 11:00 AM | - | Z | - | - | K | - | D |
 | 12:00 PM |  | Z, K | - | - | - | K | - |
 | 1:00 PM | D, K | - | - | - | - | K | - |
-| 2:00 PM | D, K | - | Z, K | - | D, Z, K | K | - |
-| 3:00 PM | D, K | - | Z, K | - | D, Z, K | K | - |
-| 4:00 PM | D, K | - | Z, K | - | D, Z, K | K | - |
+| 2:00 PM | D, K | - | D, Z, K | - | D, Z, K | K | - |
+| 3:00 PM | D, K | - | D, Z, K | - | D, Z, K | K | - |
+| 4:00 PM | D, K | - | D, Z, K | - | D, Z, K | K | - |
 | 5:00 PM | D, K | K | D, K | K | - | K | - |
 | 6:00 PM | - | K | K | D, K | - | - | - |
 | 7:00 PM | - | K | K | D, K | - | - | - |
@@ -80,7 +80,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 | **Role**          | **Duties**                                                                                                                                |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
 | Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
-| Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
+| Meeting recorder (D)  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
 | Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
