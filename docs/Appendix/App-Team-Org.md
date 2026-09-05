@@ -20,7 +20,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Kristen Giovanetto |  Discord | Messages | Slack |
+|Kristen Giovanetto |  Discord | Messages | Email |
 |Diego Suarez |  Discord | Messages | Email |
 |Zainan Zarif|Discord|Slack|Messaging|
 |Member 4 |  ? | ? | ? |
