@@ -262,6 +262,15 @@ https://www.amazon.com/s?k=clothes+iron+heat+press
 ## Organized Need Statements
 
 ### First Placement
+<img width="2828" height="1473" alt="Screenshot 2026-09-15 010205" src="https://github.com/user-attachments/assets/cec31f64-4520-463e-9e5e-aa6b98514d2f" />
+<img width="2846" height="1455" alt="Screenshot 2026-09-15 010214" src="https://github.com/user-attachments/assets/05fda353-b90f-4b54-8dbb-0a4283aa695e" />
+<img width="2831" height="1446" alt="Screenshot 2026-09-15 010223" src="https://github.com/user-attachments/assets/b5d83035-2876-469a-87be-f4bbfef5c207" />
+<img width="2832" height="1444" alt="Screenshot 2026-09-15 010235" src="https://github.com/user-attachments/assets/b512337c-bc91-47e9-98df-1dc1cd6a8f8c" />
+<img width="2835" height="1443" alt="Screenshot 2026-09-15 010247" src="https://github.com/user-attachments/assets/b649f0b5-dfde-42d0-a4d1-48bddb48b7cd" />
+<img width="2824" height="1431" alt="Screenshot 2026-09-15 010255" src="https://github.com/user-attachments/assets/c8d9061a-1433-4316-a4ea-bb2668f97b00" />
+<img width="2831" height="1445" alt="Screenshot 2026-09-15 010303" src="https://github.com/user-attachments/assets/7d59e927-7dec-4c33-b425-ee74c188c8f8" />
+<img width="2817" height="1439" alt="Screenshot 2026-09-15 010311" src="https://github.com/user-attachments/assets/7860a058-b0a0-4f66-b86c-8cfe9678a718" />
+<img width="2821" height="531" alt="Screenshot 2026-09-15 010319" src="https://github.com/user-attachments/assets/8f55f424-e9c8-4843-9cff-a3a3e724e60d" />
 
 ### Grouped with categories
 
