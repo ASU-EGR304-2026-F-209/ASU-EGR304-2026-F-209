@@ -17,7 +17,6 @@ https://www.amazon.com/s?k=laundry+golding+device&crid=2M77VR378QPZK&sprefix=lau
 
 ![](image1.png)
 
-**(include a picture)**
 <img width="1477" height="1148" alt="image" src="https://github.com/user-attachments/assets/40c9f9d0-0e98-47cc-af11-f4b3c814c0f2" />
 
 * Price: $13.59
@@ -30,7 +29,7 @@ https://www.amazon.com/s?k=laundry+golding+device&crid=2M77VR378QPZK&sprefix=lau
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-|  | 1. "This T-shirt folder is very easy to use and helps make every shirt look neat and evenly folded. It saves time, especially when folding multiple T-shirts, and keeps drawers and shelves much more organized. The board is lightweight, simple to store, and works well for everyday use. A useful product for anyone who likes keeping clothes folded consistently."                               |
+| "This T-shirt folder is very easy to use and helps make every shirt look neat and evenly folded. It saves time, especially when folding multiple T-shirts, and keeps drawers and shelves much more organized. The board is lightweight, simple to store, and works well for everyday use. A useful product for anyone who likes keeping clothes folded consistently." | 1.                               |
 |                                                                                                                                                                                        | 2. "What I like:
 
 - creates a uniform end result that's easier to stack and looks better on the shelf
