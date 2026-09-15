@@ -288,49 +288,6 @@ https://www.amazon.com/s?k=clothes+iron+heat+press
 
 The team reviewed all 100 user needs and grouped similar needs into major categories based on common themes identified throughout the benchmarking process. Each category represents a broader user need without assuming a specific technical solution.
 
-1. **Performance and Effectiveness**
-   - Needs: 1, 2, 10, 11, 12, 82, 89, 95, 97
-   - Meta Need: The product performs its intended function effectively and consistently.
-
-2. **Ease of Use and Installation**
-   - Needs: 5, 7, 22, 25, 33, 34, 35, 37, 60, 70, 72, 90, 99
-   - Meta Need: The product is simple and intuitive to set up and use.
-
-3. **Durability and Reliability**
-   - Needs: 6, 9, 13, 15, 16, 17, 18, 19, 21, 30, 31, 32, 38, 62, 66, 68, 71, 73, 92, 98
-   - Meta Need: The product remains reliable and durable throughout repeated and long-term use.
-
-4. **Size, Storage, and Portability**
-   - Needs: 3, 20, 26, 28, 29, 36, 57, 59, 86
-   - Meta Need: The product is convenient to store, transport, and use in limited spaces.
-
-5. **Versatility and User Adaptability**
-   - Needs: 4, 8, 23, 24, 27, 61, 65, 69, 75, 76, 81, 87
-   - Meta Need: The product adapts to different users, environments, materials, and operating needs.
-
-6. **Product Quality and Accuracy**
-   - Needs: 14, 41, 43, 47, 49, 50, 51, 52, 53, 58
-   - Meta Need: The product and its information accurately meet user expectations.
-
-7. **Delivery, Packaging, and Customer Support**
-   - Needs: 39, 40, 42, 44, 45, 46, 48, 54, 55, 56, 93, 94
-   - Meta Need: The customer receives dependable support and reliable product delivery.
-
-8. **Smart Operation and Connectivity**
-   - Needs: 63, 64, 74, 77, 78, 79
-   - Meta Need: The product provides reliable and responsive connected operation.
-
-9. **Speed and Efficiency**
-   - Needs: 80, 85
-   - Meta Need: The product minimizes the time and effort required for operation.
-
-10. **Safety, Comfort, and Ergonomics**
-    - Needs: 84, 88, 91, 100
-    - Meta Need: The product operates safely and comfortably during normal use.
-
-11. **Capacity and Continuous Operation**
-    - Needs: 67, 83, 96
-    - Meta Need: The product supports sustained operation with adequate capacity.
 
 ### Ranked
 
@@ -348,6 +305,11 @@ The team ranked the categories based on the frequency of related user needs, the
 10. **Product Quality and Accuracy**
 11. **Delivery, Packaging, and Customer Support**
 
+#### Ranking Decision
+
+The team ranked the categories using three criteria: frequency, importance, and team priority. Each category was scored from 1 to 5 for each criterion. The scores were added to calculate a total score, with higher total scores receiving a higher overall rank.
+
+<img src="Screenshot 2026-09-15 021020.png" alt="User Needs Ranking Decision Table" width="900">
 
 ## Compiled list of user Needs
 
