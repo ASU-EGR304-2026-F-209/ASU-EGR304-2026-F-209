@@ -13,6 +13,6 @@ From the initial team meeting, which can be reviewed in ["Appendix: Team Organiz
 
 ## Product Mission Statement
 
-Our team discussed that the purpose of our product should be to replace a task typically performed by a human, saving our users time and giving them the opportunity to spend their energy elsewhere. From this discussion, we decided upon the following mission statement:
+Our team discussed that the purpose of our product should be to replace a household task, saving our users time and giving them the opportunity to spend their energy elsewhere. From this discussion, we decided upon the following mission statement:
 
  > "Our mission is to develop an embedded systems solution that enhances everyday tasks to enable users to invest more time on higher-value activites."
