@@ -59,9 +59,49 @@ https://www.amazon.com/s?k=laundry+golding+device&crid=2M77VR378QPZK&sprefix=lau
 
 (you don't have to perform multiple searches, but sometimes different keywords reveal slightly different results)
 
-**Keywords:** <list an alternative search you did, if applicable>
+**Keywords:** ""Laundry Device"
 
-**Search Results Link:** <add your link here>
+**Search Results Link:** https://www.amazon.com/s?k=laundry+device&crid=HSSPNQG3YI42&sprefix=laundry+device%2Caps%2C183&ref=nb_sb_noss_1
+
+#### 2. https://www.amazon.com/dp/B0F6TP8JSW?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_ENXCRRHNG9S5AM3BNJ9T
+
+<img width="1477" height="1148" alt="image" src="https://m.media-amazon.com/images/I/71LGsjp1DvL._AC_SX679_.jpg" />
+
+* Price: $49.99
+
+* Vendor: Amazon
+
+* Description: This product allows for clothes to be hang dried in a limited amount of space.
+
+
+##### Positive Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+|"I really love the design of this drying rack. It saves a lot of space and folds away neatly when not in use. The material feels strong and sturdy, and the stainless steel rods hold clothes well. Installation was not difficult at all, especially with the included wall template. It works great for indoor use and looks clean on the wall."| 1.                               |
+|                                                                                                                                                                                        | 2.    |
+|                                                                                                                                                                                        | 3.  |
+|"This solved my problem of where to hang clothes that I don't want to put in the dryer, or want to hang up as soon as they are dry. I moved into a new house and the laundry room is small. My last laundry room was large and I had a lot of space to hang things up so I was frustrated with not being able to hang things up in the laundry room. This rack is the perfect size. It was easy to install and when it's not in use it folds up flat against the wall. It holds enough clothes and works perfectly for my needs."| 1.                               |
+|                                                                                                                                                                                        | 2.    |
+|                                                                                                                                                                                        | 3.  |
+|"This rack solves the problem, "where do I hang stuff to dry in my small space"? Installed above the door going into my bathroom it is the perfect place. Ingenious! It folds up when not in use and when I need it BAM! It's a Game Changer!"| 1.                               |
+|                                                                                                                                                                                        | 2.    |
+|                                                                                                                                                                                        | 3.  |
+
+##### Negative Comments
+
+| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+|"I was excited to receive this drying rack because, I am limited on laundry room space I had it mounted expecting it to hold up to 60lbs as the description states, and the rods are very flimsy once I put wet clothes on it, it fell."| 1.                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.   |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 3.             |
+|"The concept is great but there were a couple things that were not so great. The template was smaller than the actual unit so we drilled holes in wrong spots. And there’s no way to get the holes in studs so it’s not very sturdy. It didn’t fit where I measured for so we had to chop off a piece of door jamb. We’ll see how long it stays put 😔"| 1.                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.   |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 3.             |
+|"Hung up and it won’t close when collapsed."| 1.                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.   |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 3.             |
+
 
 ### Selected Products
 
