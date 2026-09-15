@@ -113,7 +113,7 @@ https://www.amazon.com/s?k=laundry+golding+device&crid=2M77VR378QPZK&sprefix=lau
 
 #### 3. [Shirt Folding Board](https://www.ebay.com/itm/307047973730)
 
-<img src="Shirt-folder.webp" alt="Shirt Folding Board" width="300">
+![Shirt Folding Board](Shirt-folder.webp)
 
 
 - Price: $33.96
