@@ -105,7 +105,42 @@ https://www.amazon.com/s?k=laundry+golding+device&crid=2M77VR378QPZK&sprefix=lau
 
 ### Selected Products
 
-#### 3. Next Product goes here
+#### 3. [Shirt Folding Board](https://www.ebay.com/itm/307047973730)
+
+![Shirt Folding Board](Shirt-folder.webp)
+
+
+- Price: $33.96
+- Vendor: eBay
+- Description: A clothes-folding device designed to help users fold shirts consistently and organize clothing more efficiently.
+
+##### Positive Comments
+
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| "Thank you for the fast delivery and communicating with me about the sale and shipment of such. Arrived in just a couple of days; new as promised." | 1. The product is delivered quickly. (explicit) |
+| | 2. The customer receives clear communication about the order. (explicit) |
+| | 3. The product arrives in the condition described. (explicit) |
+| "Very good quality, fast shipping, the seller was attentive to my questions, it was well protected in the packaging..." | 1. The product is of good quality. (explicit) |
+| | 2. The product is protected during shipping. (explicit) |
+| | 3. Customers can receive assistance with questions about the product. (explicit) |
+| "Good communication and shipping with item arriving as described..." | 1. The product arrives as described. (explicit) |
+| | 2. The product is delivered efficiently. (explicit) |
+| | 3. Product information accurately represents the item. (latent) |
+
+##### Negative Comments
+
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| "Wrong size was sent .026 ordered 0.030 received." | 1. The customer receives the correct product configuration. (explicit) |
+| | 2. The product matches the specifications selected by the customer. (explicit) |
+| | 3. Product variations are clearly distinguishable. (latent) |
+| "Your delivery carrier should be changed so everyone who buys the item gets delivery and is not outside the delivery area very dissatisfied." | 1. The product can be delivered to the intended customer. (explicit) |
+| | 2. Delivery options accommodate different customer locations. (explicit) |
+| | 3. Customers receive reliable delivery service. (latent) |
+| "Good communication and shipping with item arriving as described however, it will not fit in the area that I wanted to use it." | 1. The product fits within the user's intended space. (explicit) |
+| | 2. Product dimensions are clearly communicated to the user. (latent) |
+| | 3. The product is suitable for a variety of storage spaces. (latent) |
 
 #### 4. Next Product goes here
 
