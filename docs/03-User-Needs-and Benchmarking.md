@@ -51,13 +51,12 @@ https://www.amazon.com/s?k=laundry+golding+device&crid=2M77VR378QPZK&sprefix=lau
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 3. The product is constructed from durable materials. (Explicit)            |
 | "I spent the extra money for this because it has hinges on the sides. This is important because it means the plastic won't wear down and break at the folds. Apparently I didn't look closely enough because it does have just a thin plastic joint along the horizontal axis. This means they understood the importance of hinges yet still designed this to break after a few uses. Only now do I see a V4 that's fully designed with hinges. I'm irritated that this design is even sold, let alone be pushed more than the newer version in the search results. I'll be returning this. -Angry" | 1. The product incorporates durable joints capable of frequent movement. (Latent)                      |
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 2. The product's design reflects reliable long-term durability. (Latent)  |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 3. The product withstands repeated folding without failure. (Explicit)            |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 3. The product withstands repeated folding without failure. (Explicit)   |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 4. The products material performs well in hot conditions. (Latent)   |
 
-#### 2. Next Product goes here 
 
 ### Search #2
 
-(you don't have to perform multiple searches, but sometimes different keywords reveal slightly different results)
 
 **Keywords:** ""Laundry Device"
 
@@ -81,6 +80,7 @@ https://www.amazon.com/s?k=laundry+golding+device&crid=2M77VR378QPZK&sprefix=lau
 |"I really love the design of this drying rack. It saves a lot of space and folds away neatly when not in use. The material feels strong and sturdy, and the stainless steel rods hold clothes well. Installation was not difficult at all, especially with the included wall template. It works great for indoor use and looks clean on the wall."| 1. The product allows a "clean" look and can be folded up when not being used. (Explicit)|
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 2. Sturdy with a good design. (Latent)|
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 3. Installation was simple and a wall template is included (Explicit)|
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 4. Product can be used inside and outside. (Explicit)|
 |"This solved my problem of where to hang clothes that I don't want to put in the dryer, or want to hang up as soon as they are dry. I moved into a new house and the laundry room is small. My last laundry room was large and I had a lot of space to hang things up so I was frustrated with not being able to hang things up in the laundry room. This rack is the perfect size. It was easy to install and when it's not in use it folds up flat against the wall. It holds enough clothes and works perfectly for my needs."| 1. Holds a decent amount of clothes (Latent)|
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 2. Simple to install. (Explicit)|
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 3. Folds up when not in use. (Explicit)|
@@ -113,7 +113,7 @@ https://www.amazon.com/s?k=laundry+golding+device&crid=2M77VR378QPZK&sprefix=lau
 
 #### 3. [Shirt Folding Board](https://www.ebay.com/itm/307047973730)
 
-![Shirt Folding Board](Shirt-folder.webp)
+<img width="1477" height="1148" alt="image" src="https://i.ebayimg.com/images/g/8QcAAeSwHBRqTThS/s-l1600.webp" />
 
 
 - Price: $33.96
@@ -131,7 +131,11 @@ https://www.amazon.com/s?k=laundry+golding+device&crid=2M77VR378QPZK&sprefix=lau
 | "Very good quality, fast shipping, the seller was attentive to my questions, it was well protected in the packaging..." | 1. The product is of good quality. (explicit) |
 | | 2. The product is protected during shipping. (explicit) |
 | | 3. Customers can receive assistance with questions about the product. (explicit) |
+<<<<<<< HEAD
 | | 4. The product is packaged securely enough to protect its quality and condition throughout the shipping and delivery process. (latent) |
+=======
+| | 4. The product is durable. (latent) |
+>>>>>>> d161a82212881c0385062f936bca95b4d8c491b7
 | "Good communication and shipping with item arriving as described..." | 1. The product arrives as described. (explicit) |
 | | 2. The product is delivered efficiently. (explicit) |
 | | 3. Product information accurately represents the item. (latent) |
@@ -151,9 +155,108 @@ https://www.amazon.com/s?k=laundry+golding+device&crid=2M77VR378QPZK&sprefix=lau
 | | 2. Product dimensions are clearly communicated to the user. (latent) |
 | | 3. The product is suitable for a variety of storage spaces. (latent) |
 
-#### 4. Next Product goes here
+### Search #4
 
-#### 5. Next Product goes here
+**Keywords:** "self watering plant system"
+
+**Search Results Link:** 
+https://www.amazon.com/s?k=self+watering+plant+system&crid=11H45BW7Q04ET&sprefix=self+watering+plant+system%2Caps%2C336&ref=nb_sb_noss_1
+
+### Selected Products
+
+#### 1. [LetPot Automatic Watering System for Potted Plants](https://www.amazon.com/Automatic-Watering-Control-Irrigation-Shortage/dp/B0D982BBSB/ref=sr_1_6?crid=11H45BW7Q04ET&dib=eyJ2IjoiMSJ9.jvof08LzLUhCflGAmhbAQ-yARD6ZL0EhVO90k6bQ08TtbIN5-azTUsHKqao_QfjpdVV_SPzExaXyGfpAl6Ir-6gCaCPABqOSr_fJXQorQfOPlEYiaiviQUztz8hp1FQnXguAbQSN2dklX1jtxsjyxKIKkiny-yOqj8Qs-WEFW9OSWGanBKculkPqXBfuUpifUBVt7-9CdyvwgBN5knBmGb8-RupPFt0e9R16gXVnaDwdnIdbLo1agtgvNxbzewcH9oyyQAPfULpm7xvaPeUCanTdnLvXCLQDFkJYVA-1qXw.ttVtzBkF7WY7eGZpXn4OvZ4yZuf0G6BxloF1SG5WMM4&dib_tag=se&keywords=self%2Bwatering%2Bplant%2Bsystem&qid=1789452206&sprefix=self%2Bwatering%2Bplant%2Bsystem%2Caps%2C336&sr=8-6&th=1) (link to the product)
+
+![](image1.png)
+
+<img width="1306" height="1270" alt="image" src="https://github.com/user-attachments/assets/15798720-c4ef-48db-8eff-1cff86707f12" />
+
+* Price: $69.99
+
+* Vendor: Amazon
+
+* Description: This device self waters plants that runs water through a pump system from a jar.
+
+##### Positive Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "I'm absolutely thrilled with my L e t p o t automatic watering device! As someone who sometimes struggles to keep up with watering, this product has been a lifesaver. Setting it up was incredibly simple, and I love that I can customize the watering schedule to suit the specific needs of my plants. I've noticed a significant improvement in their health and growth since I started using it. No more over or under watering! The L e p o t has given me so much peace of mind, especially when I'm traveling. I highly recommend this product to any plant lover looking for a reliable and easy-to-use automatic watering solution." | 1. The product is easy to set up and begin using. (Explicit)|
+|                                                                                                       | 2. The product allows users to customize watering based on plant requirements. (Explicit)|
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 3. The product operates reliably while users are away from home. (Explicit)|
+| "Overall, good system. Easy to set up, responsive to the app and commands. Works well. It would be easy to configure based on needs and does require some tinkering based on your setup, but that is with the drip emitters. This is all very easy to adjust as needed!"| 1. The product responds quickly to user commands. (Explicit)                      |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 2. The product works reliably with its companion application. (Explicit)  |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 3. The product allows users to adjust watering without difficulty. (Explicit)            |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 4. The products is reliable in unideal conditions. (Latent)   |
+| "It worked so well that after returning back from our trip, I decided to leave it for the rest of the winter and used this system for irrigation. It actually worked better because watering frequency is consistent and you can figure out what works for the plants. In addition, you can setup water flow for each plant by adjusting how much water flow it will need based on the size of the pot and plant. I will be using this every winter for watering my plants. I would highly recommend this product."| 1. The product provides consistent watering over long periods. (Explicit)                     |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 2. The product is suitable for long-term seasonal use. (Latent)  |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 3. The product allows individualized watering for multiple plants. (Explicit)            |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 4. The product requires personal experimentation to ensure proper performance. (Latent)   |
+
+##### Negative Comments
+
+| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| "On pump water barbs dose not hold hose on and slips off. Hose much to hard for woman to push hose over barbs. anti-backflow plugged up and stopped flowing in just a minute. Pump is very week and slows over long Pump time. App ask for to much personal information. Not needed for watering plants." | 1. The product maintains secure tubing connections during operation. (Explicit)|
+|                                                                                                       | 2. The product can be assembled without excessive physical effort. (Explicit)|
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 3. The product operates reliably while users are away from home. (Explicit)|
+| "I bought this product with the intent to control the watering schedule of my plants remotely when we travel. The connection with the network is very poor. Either will not connect or it will drop the connection after a couple of minutes. Also the tubing attachment to the unit and to the drip terminal of each plant does not seem to withstand the water pressure and slip off during the watering, flooding the plants. I had to painstakingly reinforce the tubing connections with a string knot. Also all the plants receive water when you schedule so, independently of their individual needs. You will have control how many drops per minute you want on every terminal drip for each plant. A pain! To work just with bluetooth and the other problems described was not worth for me. Unfortunately it pass the time to return. Think twice buying this product." | 1. The product maintains a reliable wireless connection. (Explicit)                    |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 2. The product allows each plant to receive an appropriate amount of water. (Explicit)  |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 3. The product minimizes manual adjustments for multiple plants. (Latent)     |
+| "I purchased the system because it was indoor/outdoors and perfect for when I take my bonsai collection outdoors for the summer. In the hot summer, the watering needs of my bonsais is very significant. They are aged 85 years, 40 years and 31 years old respectively and death is not an option. The idea of the product was excellent, Wi-Fi connectivity, control with one's phone, uses household electricity and is weatherproof, easy to set up. They don't warn you that it must use outdated technology, 2.4 gigahertz Wi-Fi rather than the modern standard of 5 gigahertz. I have high-speed internet in my home with extenders that are not compatible with the old 2.4 gigahertz Wi-Fi. As a result I must send the product back. I hear 2015 calling and they want their 2.4 gigahertz Wi-Fi back..." | 1. The product is compatible with commonly used home networks. (Explicit)                    |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 2. The product functions without requiring users to change their home network configuration. (Latent)  |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 3. The product supports dependable connectivity in a variety of home environments. (Latent)    |
+
+### Search #5
+
+**Keywords:** "clothes iron heat press"
+
+**Search Results Link:** 
+https://www.amazon.com/s?k=clothes+iron+heat+press
+
+### Selected Products
+
+#### 1. [OGHom 2-in-1 Iron & Steamer for Clothes](https://www.amazon.com/OGHom-Steamer-Clothes-Handheld-Garment/dp/B0GXY76NQC)
+
+<img width="1079" height="1500" alt="OGHom 2-in-1 Iron & Steamer" src="https://m.media-amazon.com/images/I/7166gnQ+9jL._AC_SL1500_.jpg" />
+
+* Price: $33.32
+
+* Vendor: Amazon
+
+* Description: A 2-in-1 handheld iron and steamer designed to quickly remove wrinkles and smooth clothing. It uses heat and steam with multiple fabric settings, making it useful for preparing garments for neat and consistent folding.
+
+##### Positive Comments
+
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| "I really like this 2-in-1 garment steamer and iron. It heats up quickly and is very easy to use. I love that it has different settings for different types of fabrics, so I can use it on everything from delicate clothes to thicker fabrics. The steam works well for removing wrinkles, and the compact design makes it convenient to use and store. The water tank is also a good size for quick touch-ups without constantly refilling it." | 1. The product minimizes preparation time by heating up quickly. (Explicit) |
+|  | 2. The product safely accommodates different types of fabric. (Explicit) |
+|  | 3. The product smooths garments effectively and consistently. (Explicit) |
+|  | 4. A decent appropriately sized water tank is necessary to avoid the need to frequently refill. (Explicit) |
+| "I really like this iron! It can also be used as a steamer which makes it a double win for me. The handle is easy to grip and it rotates. There are multiple settings for different materials and it heats up in seconds. It's quick, easy to use and pack for travel. There is a measuring cup to prevent over filling. It also comes with an extended warranty. I would recommend this purchase. Great quality for the price." | 1. The product is comfortable and easy to maneuver. (Explicit) |
+|  | 2. The product minimizes preparation and waiting time. (Explicit) |
+|  | 3. The product is compact, portable, and convenient to store. (Explicit) |
+|  | 4. Versatile heat and fabric settings to accommodate user needs fully . (Latent) |
+| "I'm really impressed with this steam iron. It's compact, easy to handle, and heats up quickly. I especially like the design it makes it convenient to use on different types of clothing without feeling bulky or uncomfortable in my hand. The steam works really well for getting out wrinkles and giving clothes a fresh, neat look. The controls are simple to understand, and I love that it has different fabric settings. It's a great option for everyday touch-ups and traveling because it doesn't take up much space." | 1. The product is ergonomic and comfortable during use. (Explicit) |
+|  | 2. The product effectively removes wrinkles from garments. (Explicit) |
+|  | 3. The product has simple and intuitive controls. (Explicit) |
+|  | 4. The product provides safe and reliable electrical operation. (Latent) |
+
+
+##### Negative Comments
+
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| "So disappointed. Worked amazing but after a few weeks, the steamer stopped turning on. I contacted Amazon to get in touch with their customer support. I was told they would reach out and since nothing; I am out of my return window so I can't exchange. Very disappointed." | 1. The product remains durable and reliable over long-term use. (Latent) |
+|  | 2. The product provides responsive customer support when problems occur. (Latent) |
+|  | 3. The product provides an adequate warranty or replacement option. (Latent) |
+| "Lot of bells & whistles, But not enough STEAM. Had to fill it twice with water to de-wrinkle one pair of cotton shorts." | 1. The product provides strong and consistent steam output. (Explicit) |
+|  | 2. The product has sufficient water capacity for continuous use. (Latent) |
+|  | 3. The product removes wrinkles efficiently with minimal effort. (Latent) |
+| "I'm not sure how I feel about this iron yet. The problem I'm having is it shuts itself off before I even finish ironing one tshirt. Read instructions and can't figure out if I'm doing something wrong. I plugged it in long enough to brush my teeth and it shut off before i finished." | 1. The product remains operational for a sufficient amount of time during use. (Latent) |
+|  | 2. The product provides clear and intuitive operating instructions. (Latent) |
+|  | 3. The automatic shut-off feature does not interrupt normal use. (Latent) |
+
 
 
 ## Organized Need Statements
