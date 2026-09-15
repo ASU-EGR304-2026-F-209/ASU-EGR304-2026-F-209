@@ -130,6 +130,7 @@ https://www.amazon.com/s?k=laundry+golding+device&crid=2M77VR378QPZK&sprefix=lau
 | "Very good quality, fast shipping, the seller was attentive to my questions, it was well protected in the packaging..." | 1. The product is of good quality. (explicit) |
 | | 2. The product is protected during shipping. (explicit) |
 | | 3. Customers can receive assistance with questions about the product. (explicit) |
+| | 4. The product is durable. (latent) |
 | "Good communication and shipping with item arriving as described..." | 1. The product arrives as described. (explicit) |
 | | 2. The product is delivered efficiently. (explicit) |
 | | 3. Product information accurately represents the item. (latent) |
