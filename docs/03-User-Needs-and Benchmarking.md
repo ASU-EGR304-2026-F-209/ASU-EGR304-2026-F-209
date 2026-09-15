@@ -309,7 +309,7 @@ The team ranked the categories based on the frequency of related user needs, the
 
 The team ranked the categories using three criteria: frequency, importance, and team priority. Each category was scored from 1 to 5 for each criterion. The scores were added to calculate a total score, with higher total scores receiving a higher overall rank.
 
-<img src="Screenshot 2026-09-15 021020.png" alt="User Needs Ranking Decision Table" width="900">
+![User Needs Ranking Decision Table](Screenshot%202026-09-15%20021020.png)
 
 ## Compiled list of user Needs
 
