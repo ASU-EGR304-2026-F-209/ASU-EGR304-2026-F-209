@@ -272,6 +272,19 @@ https://www.amazon.com/s?k=clothes+iron+heat+press
 <img width="2821" height="531" alt="Screenshot 2026-09-15 010319" src="https://github.com/user-attachments/assets/8f55f424-e9c8-4843-9cff-a3a3e724e60d" />
 
 ### Grouped with categories
+<img width="2903" height="1537" alt="Screenshot 2026-09-15 010802" src="https://github.com/user-attachments/assets/ab6eb15b-f8d2-4b21-a011-65f129dd9da3" />
+<img width="2897" height="1527" alt="Screenshot 2026-09-15 010809" src="https://github.com/user-attachments/assets/2e90cfc0-bbd2-43ed-8091-0eae9ab60c32" />
+<img width="2925" height="1621" alt="Screenshot 2026-09-15 010818" src="https://github.com/user-attachments/assets/a6259be9-1a09-4abd-b15c-a28a0e1b9b55" />
+<img width="2922" height="1596" alt="Screenshot 2026-09-15 010827" src="https://github.com/user-attachments/assets/95d5f28c-0ba5-44fc-8e5e-c5d8244b2eeb" />
+<img width="2890" height="1611" alt="Screenshot 2026-09-15 010836" src="https://github.com/user-attachments/assets/0d4923b1-90e7-4c98-a633-efeba15c247f" />
+<img width="2917" height="1629" alt="Screenshot 2026-09-15 010845" src="https://github.com/user-attachments/assets/836727c4-8fd0-4017-a30a-dd5fc29bdc0f" />
+<img width="2911" height="1633" alt="Screenshot 2026-09-15 010852" src="https://github.com/user-attachments/assets/0186bb3f-3019-481d-9cd9-9e3ceadb133d" />
+<img width="2915" height="1512" alt="Screenshot 2026-09-15 010859" src="https://github.com/user-attachments/assets/b9b30fc9-0464-4b24-9970-f36cd8cfa574" />
+<img width="2921" height="1608" alt="Screenshot 2026-09-15 010906" src="https://github.com/user-attachments/assets/0decc204-9aae-4912-9157-d94e8ed42a81" />
+<img width="2918" height="1528" alt="Screenshot 2026-09-15 010915" src="https://github.com/user-attachments/assets/072606eb-99e6-439d-a564-1df71d05c2fa" />
+<img width="2894" height="1608" alt="Screenshot 2026-09-15 010924" src="https://github.com/user-attachments/assets/994041d9-34e8-453a-b3c2-b317de059083" />
+<img width="2889" height="1607" alt="Screenshot 2026-09-15 010933" src="https://github.com/user-attachments/assets/28eef9fa-6629-4155-b1f2-866757df1c4c" />
+
 
 ### Ranked
 
