@@ -227,12 +227,16 @@ https://www.amazon.com/s?k=clothes+iron+heat+press
 | "I really like this 2-in-1 garment steamer and iron. It heats up quickly and is very easy to use. I love that it has different settings for different types of fabrics, so I can use it on everything from delicate clothes to thicker fabrics. The steam works well for removing wrinkles, and the compact design makes it convenient to use and store. The water tank is also a good size for quick touch-ups without constantly refilling it." | 1. The product minimizes preparation time by heating up quickly. (Explicit) |
 |  | 2. The product safely accommodates different types of fabric. (Explicit) |
 |  | 3. The product smooths garments effectively and consistently. (Explicit) |
+|  | 4. A decent appropriately sized water tank is necessary to avoid the need to frequently refill. (Explicit) |
 | "I really like this iron! It can also be used as a steamer which makes it a double win for me. The handle is easy to grip and it rotates. There are multiple settings for different materials and it heats up in seconds. It's quick, easy to use and pack for travel. There is a measuring cup to prevent over filling. It also comes with an extended warranty. I would recommend this purchase. Great quality for the price." | 1. The product is comfortable and easy to maneuver. (Explicit) |
 |  | 2. The product minimizes preparation and waiting time. (Explicit) |
 |  | 3. The product is compact, portable, and convenient to store. (Explicit) |
+|  | 4. Versatile heat and fabric settings to accommodate user needs fully . (Latent) |
 | "I'm really impressed with this steam iron. It's compact, easy to handle, and heats up quickly. I especially like the design it makes it convenient to use on different types of clothing without feeling bulky or uncomfortable in my hand. The steam works really well for getting out wrinkles and giving clothes a fresh, neat look. The controls are simple to understand, and I love that it has different fabric settings. It's a great option for everyday touch-ups and traveling because it doesn't take up much space." | 1. The product is ergonomic and comfortable during use. (Explicit) |
 |  | 2. The product effectively removes wrinkles from garments. (Explicit) |
 |  | 3. The product has simple and intuitive controls. (Explicit) |
+|  | 4. The product provides safe and reliable electrical operation. (Latent) |
+
 
 ##### Negative Comments
 
@@ -244,9 +248,10 @@ https://www.amazon.com/s?k=clothes+iron+heat+press
 | "Lot of bells & whistles, But not enough STEAM. Had to fill it twice with water to de-wrinkle one pair of cotton shorts." | 1. The product provides strong and consistent steam output. (Explicit) |
 |  | 2. The product has sufficient water capacity for continuous use. (Latent) |
 |  | 3. The product removes wrinkles efficiently with minimal effort. (Latent) |
-| "I'm not sure how I feel about this iron yet. The problem I'm having is it shuts itself off before I even finish ironing one tshirt. Read instructions and can't figure out if I'm doing something wrong. I plugged it in long enough to brush my teeth and it shut off before i finished." | 1. The product remains operational for a sufficient amount of time during use. (Explicit) |
+| "I'm not sure how I feel about this iron yet. The problem I'm having is it shuts itself off before I even finish ironing one tshirt. Read instructions and can't figure out if I'm doing something wrong. I plugged it in long enough to brush my teeth and it shut off before i finished." | 1. The product remains operational for a sufficient amount of time during use. (Latent) |
 |  | 2. The product provides clear and intuitive operating instructions. (Latent) |
 |  | 3. The automatic shut-off feature does not interrupt normal use. (Latent) |
+
 
 
 ## Organized Need Statements
