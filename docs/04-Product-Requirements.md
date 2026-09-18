@@ -4,6 +4,8 @@ title: Product Requirements
 
 ## Project Objective
 
+This project strives to inspire new innovation in more efficient and effective laundry folding machines. The goal is to meet the growing needs of household users and create a product that adds to the list of automated household products that makes their lives more convenient and enables them to spend their day on more important activities. After aim to decrease folding time by at least 40 percent 
+
 This project aims to investigate and develop smart adaptive technologies, an improved user experience, better fit, improved product design, and product customization options for the next-generation AirPods. The target is to maintain global dominance in the wireless earphone market, drive up AirPod sales to 100 million+ units sold with a 60% global market share in 2021 and expand the user base more towards the luxury, professional, and fitness segments. We believe that adding smart interactions and adaptive audio filters alone will already expand our user base by 15%. With the new generation AirPods we aim to match at least the sound quality of our main competitor, the Sony WF-1000XM3, and include Active Noise Canceling that is also featured in Mifo, House of Marley, Bose, and Amazon Echo products. We will also obtain IPX4 sweat-resistant rating equal to Bose, House of Marley, and Amazon Echo earbuds, and aim to extend our range of colors, as seen in Urbanista and Jabra’s lifestyle products.
 
 ## Stakeholders
