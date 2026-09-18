@@ -8,7 +8,7 @@ This project strives to develop an automated laundry folding device that improve
 
 ## Stakeholders
 
-* **Target group** High-income upper-class professionals between the age of 20 and 45. Their personalities are determined and ambitious. The main benefits sought are recreation and self-expression.
+* **Target group** Middle to Upper-class households. Secondary customers are companies such as hotels, laundromats, and laundry service providers that require garments to be folded quickly, consistently, and efficiently.
 * **Target purchaser** Target group profile with special attention to Full Nest I and Full Nest II mothers.
 * **Customer service** Prefers easy-to-repair, recyclable product, and easy-to-fix complaints to fit with Apple’s intuitive user experience.
 * **Marketing & Sales division** Looks for unique selling points around the Apple Aspirer-Explorer lifestyle and user experience.
