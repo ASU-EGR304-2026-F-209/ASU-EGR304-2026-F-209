@@ -32,62 +32,67 @@ Carlos places a garment into the automated laundry folding device and selects th
 
 ## Aspects
 
-1. **Hardware / Product Design**
+**1. Hardware / Product Design**
 
-   * 1.1 The product shall use an automated mechanical folding mechanism capable of folding common household garments, including shirts, pants, and towels.
+* **1.1** The product shall use an automated mechanical folding mechanism capable of folding common household garments, including shirts, pants, and towels.
 
-   * 1.2 The product shall be compact enough to fit within a typical household laundry area or on a standard countertop or table.
+* **1.2** The product shall be compact enough to fit within a typical household laundry area or on a standard countertop or table.
 
-   * 1.3 The product shall be constructed with sufficient structural rigidity to remain stable during repeated folding cycles.
+* **1.3** The product shall be constructed with sufficient structural rigidity to remain stable during repeated folding cycles.
 
-   * 1.4 The product shall incorporate accessible controls that allow the user to operate the device without directly interacting with the folding mechanism.
+* **1.4** The product shall incorporate accessible controls that allow the user to operate the device without directly interacting with the folding mechanism.
 
-2. **Software / Functionality**
 
-   * 2.1 The product shall control the sequence and timing of the folding mechanism automatically after the user begins a folding cycle.
+**2. Software / Functionality**
 
-   * 2.2 The product shall complete a selected folding cycle without requiring additional user input once the cycle has started.
+* **2.1** The product shall control the sequence and timing of the folding mechanism automatically after the user begins a folding cycle.
 
-   * 2.3 The product shall reduce the average time required to fold supported garments by at least 40% compared with manual folding under comparable conditions.
+* **2.2** The product shall complete a selected folding cycle without requiring additional user input once the cycle has started.
 
-   * 2.4 The product shall return to its starting position after completing each folding cycle so that it is ready for the next garment.
+* **2.3** The product shall reduce the average time required to fold supported garments by at least 40% compared with manual folding under comparable conditions.
 
-3. **Interactivity & User Experience**
+* **2.4** The product shall return to its starting position after completing each folding cycle so that it is ready for the next garment.
 
-   * 3.1 The product shall provide a simple user interface that allows the user to select the desired garment type and folding setting.
 
-   * 3.2 The product shall provide a clear indication when a folding cycle has started and when it has been completed.
+**3. Interactivity & User Experience**
 
-   * 3.3 The product shall allow a user to begin a standard folding cycle using no more than three user inputs after placing the garment into the device.
+* **3.1** The product shall provide a simple user interface that allows the user to select the desired garment type and folding setting.
 
-   * 3.4 The product shall clearly identify the available controls and folding options so that a first-time user can operate the basic functions without specialized training.
+* **3.2** The product shall provide a clear indication when a folding cycle has started and when it has been completed.
 
-4. **Customization**
+* **3.3** The product shall allow a user to begin a standard folding cycle using no more than three user inputs after placing the garment into the device.
 
-   * 4.1 The product shall allow the user to select different folding settings based on the type of garment being folded, including shirts, pants, and towels.
+* **3.4** The product shall clearly identify the available controls and folding options so that a first-time user can operate the basic functions without specialized training.
 
-   * 4.2 The product shall accommodate multiple common garment sizes without requiring physical modifications to the device.
 
-   * 4.3 The product shall allow the user to select between at least two different final fold sizes to accommodate different storage needs.
+**4. Customization**
 
-   * 4.4 The product shall allow the user to change the folding settings before beginning each folding cycle.
+* **4.1** The product shall allow the user to select different folding settings based on the type of garment being folded, including shirts, pants, and towels.
 
-5. **Manufacturing**
+* **4.2** The product shall accommodate multiple common garment sizes without requiring physical modifications to the device.
 
-   * 5.1 The product shall be designed using commercially available components and materials whenever practical to reduce manufacturing cost and simplify component replacement.
+* **4.3** The product shall allow the user to select between at least two different final fold sizes to accommodate different storage needs.
 
-   * 5.2 The prototype shall use modular components that can be individually removed and replaced without requiring replacement of the entire device.
+* **4.4** The product shall allow the user to change the folding settings before beginning each folding cycle.
 
-   * 5.3 The product shall minimize the number of unique fasteners and mechanical components required for assembly.
 
-   * 5.4 The product shall be designed so that major mechanical and electronic components remain accessible for assembly, maintenance, and repair.
+**5. Manufacturing**
 
-6. **Safety**
+* **5.1** The product shall be designed using commercially available components and materials whenever practical to reduce manufacturing cost and simplify component replacement.
 
-   * 6.1 The product shall include an emergency stop or equivalent mechanism that allows the user to immediately stop the folding mechanism during operation.
+* **5.2** The prototype shall use modular components that can be individually removed and replaced without requiring replacement of the entire device.
 
-   * 6.2 The product shall prevent or minimize user access to moving mechanical components during a folding cycle.
+* **5.3** The product shall minimize the number of unique fasteners and mechanical components required for assembly.
 
-   * 6.3 The product shall stop or prevent operation when a condition that could cause damage or unsafe operation is detected.
+* **5.4** The product shall be designed so that major mechanical and electronic components remain accessible for assembly, maintenance, and repair.
 
-   * 6.4 The product shall protect electrical wiring and connections from accidental contact during normal operation.
+
+**6. Safety**
+
+* **6.1** The product shall include an emergency stop or equivalent mechanism that allows the user to immediately stop the folding mechanism during operation.
+
+* **6.2** The product shall prevent or minimize user access to moving mechanical components during a folding cycle.
+
+* **6.3** The product shall stop or prevent operation when a condition that could cause damage or unsafe operation is detected.
+
+* **6.4** The product shall protect electrical wiring and connections from accidental contact during normal operation.
