@@ -9,7 +9,7 @@ This project strives to develop an automated laundry folding device that improve
 ## Stakeholders
 
 * **Target group** Middle to Upper-class households. Secondary customers are companies such as hotels, laundromats, and laundry service providers that require garments to be folded quickly, consistently, and efficiently.
-* **Target purchaser** Memebers of the target group with very little time and energy to spend doing laundry.
+* **Target purchaser** Members of the target group with very little time and energy to spend doing laundry.
 * **Customer service** Prefers fast and attentive service that addresses any damaged products or difficulty in usage.
 * **Marketing & Sales division** Searches for ways to make storage and organization simpler.
 * **Retailers** Prefer products that can handle a variety of garment shapes and sizes that make storage simple and efficient.
