@@ -30,7 +30,7 @@ Carlos is a hotel laundry employee responsible for processing and folding large 
 
 Carlos places a garment into the automated laundry folding device and selects the appropriate folding setting for the type and size of garment. The device automatically folds the garment into a consistent shape and notifies him when the process is complete. This allows Carlos to prepare the next garment while the machine operates, reducing the amount of manual work required and increasing the number of garments that can be processed during a shift.
 
-## Aspects
+## Design Aspects
 
 **1. Hardware / Product Design**
 
