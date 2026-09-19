@@ -96,3 +96,58 @@ Carlos places a garment into the automated laundry folding device and selects th
 * **6.3** The product shall stop or prevent operation when a condition that could cause damage or unsafe operation is detected.
 
 * **6.4** The product shall protect electrical wiring and connections from accidental contact during normal operation.
+
+
+## Requirement Criteria Specifications
+
+| Requirement ID | Description of Requirement | Acceptance Criteria | Verification Method |
+|---|---|---|---|
+| **1.1** | Automated folding of common garments | Device successfully folds a shirt, pair of pants, and towel without manual folding assistance after the cycle begins. | Test / Demonstration |
+| **1.2** | Compact product design | Completed prototype fits within the maximum dimensions established by the team for household use. | Inspection / Measurement |
+| **1.3** | Structural stability | Device remains stable and experiences no structural failure during 20 consecutive folding cycles. | Test |
+| **1.4** | Accessible controls | User can access all normal operating controls without reaching into the folding mechanism. | Inspection / Demonstration |
+| **2.1** | Automatic folding sequence | Device executes the complete programmed folding sequence in the intended order after the cycle is started. | Test / Demonstration |
+| **2.2** | Automatic cycle completion | Device completes a selected folding cycle without additional user input after the cycle begins. | Test |
+| **2.3** | Folding-time reduction | Average automated folding time is at least 40% less than the average manual folding time for the same supported garments under comparable conditions. | Test / Analysis |
+| **2.4** | Automatic reset | Folding mechanism returns to its defined starting position after each completed cycle. | Test / Demonstration |
+| **3.1** | User interface | Interface allows selection of garment type and available folding settings. | Inspection / Demonstration |
+| **3.2** | Cycle status indication | Device provides a visible or audible indication when the folding cycle starts and when it finishes. | Demonstration |
+| **3.3** | Simple operation | User can initiate a standard folding cycle with no more than three inputs after garment placement. | Test / Demonstration |
+| **3.4** | Ease of use | A first-time user can identify the controls and successfully operate the basic folding function using the provided instructions without specialized training. | Demonstration |
+| **4.1** | Garment-type selection | User can select separate folding settings for shirts, pants, and towels. | Test / Demonstration |
+| **4.2** | Multiple garment sizes | Device successfully folds at least two representative sizes of each supported garment type without physical modification. | Test |
+| **4.3** | Fold-size selection | Device provides at least two selectable final fold sizes. | Inspection / Demonstration |
+| **4.4** | Setting adjustment | User can change the selected folding setting before starting each cycle. | Demonstration |
+| **5.1** | Commercially available components | Major purchased mechanical and electronic components are documented as commercially available. | Inspection |
+| **5.2** | Modular components | Major modular components can be individually removed and replaced without replacing the entire device. | Inspection / Demonstration |
+| **5.3** | Simplified assembly | Bill of materials and final assembly design show that unnecessary unique fasteners and mechanical components have been minimized. | Inspection / Analysis |
+| **5.4** | Component accessibility | Major mechanical and electronic components can be accessed for maintenance using standard tools without destructive disassembly. | Inspection / Demonstration |
+| **6.1** | Emergency stop | Activating the emergency stop or equivalent control stops powered movement of the folding mechanism. | Test / Demonstration |
+| **6.2** | Moving-component protection | Normal operation does not require the user's hands to enter the moving folding mechanism while a cycle is active. | Inspection / Demonstration |
+| **6.3** | Unsafe-condition response | A simulated detectable unsafe condition prevents operation or causes the device to stop. | Test |
+| **6.4** | Electrical protection | Electrical wiring, terminals, and connections are protected from accidental user contact during normal operation. | Inspection |
+
+
+## Open Questions
+
+* What should the maximum dimensions and weight of the final device be for convenient household use?
+
+* What range of garment sizes should the device be capable of folding?
+
+* What types of fabric and garment materials can the device reliably handle?
+
+* What folding mechanism will provide the best balance between speed, consistency, reliability, and cost?
+
+* What sensors should be incorporated to detect garment placement and possible obstructions?
+
+* What type of user interface should be used to select garment type, fold size, and other settings?
+
+* What method should be used to notify the user when a folding cycle is complete?
+
+* What additional safety features or physical guards will be necessary around the moving folding mechanism?
+
+* What should the target manufacturing cost and retail price of the product be?
+
+* How many folding cycles should the product be expected to complete before requiring maintenance?
+
+* Should future versions automatically recognize garment type and size instead of requiring manual selection?
