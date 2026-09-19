@@ -24,7 +24,12 @@ Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. 
 
 ### User Story #2
 
-...
+### User Story #2: Hotel Laundry Employee
+
+Carlos is a hotel laundry employee responsible for processing and folding large quantities of clothing and linens throughout his shift. Manually folding each item takes a significant amount of time and can result in inconsistent folds, especially during busy periods. He needs a device that can quickly and consistently fold common garments while requiring minimal interaction.
+
+Carlos places a garment into the automated laundry folding device and selects the appropriate folding setting for the type and size of garment. The device automatically folds the garment into a consistent shape and notifies him when the process is complete. This allows Carlos to prepare the next garment while the machine operates, reducing the amount of manual work required and increasing the number of garments that can be processed during a shift.
+
 
 ## Aspects
 
