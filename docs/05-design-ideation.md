@@ -32,7 +32,9 @@ Add your context and tables
 
 ## Step Four
 
-Add your different product concepts stuff here
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/7c6fa0ea-2af1-4e11-9d8f-aaaaa3ffcf6a" />
+<img width="2251" height="2057" alt="image" src="https://github.com/user-attachments/assets/79c25d23-0868-49e3-b0ec-7353bb755d7c" />
+<img width="3035" height="1995" alt="image" src="https://github.com/user-attachments/assets/61e3dec1-9a56-4fa5-8509-7e0a790aa08e" />
 
 ## Step Six (video link)
 (https://youtu.be/C76osXtpLeM?si=cLpY0jbf3aVy3klt)
