@@ -4,8 +4,7 @@ title: Design Ideation
 
 ## Intro/overview
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+To create a product that can fold clothes, we need to understand and define the user needs and product requirements. This will help us generate ideas for features that can be incorporated into the product to meet those needs and requirements.
 
 ## Generating Ideas
 
