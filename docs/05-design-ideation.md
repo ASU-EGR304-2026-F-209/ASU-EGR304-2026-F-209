@@ -142,7 +142,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 <img width="2243" height="1250" alt="Screenshot 2026-09-26 011544" src="https://github.com/user-attachments/assets/25920d0a-5014-4345-a65a-e7b511894144" />
 <img width="2240" height="1255" alt="Screenshot 2026-09-26 011530" src="https://github.com/user-attachments/assets/7fd9e219-8a7f-4538-b96e-caaac5b89c3a" />
 <img width="2509" height="1315" alt="Screenshot 2026-09-26 012238" src="https://github.com/user-attachments/assets/83116714-e45e-408f-b53e-018ab4efa12f" />
-
+<img width="2204" height="1248" alt="Screenshot 2026-09-26 012531" src="https://github.com/user-attachments/assets/c1cfd1b5-6b9d-43a2-a0be-6bb2c2181a27" />
 
 ## Step Four
 
