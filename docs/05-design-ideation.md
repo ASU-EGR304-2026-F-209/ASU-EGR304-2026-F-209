@@ -26,4 +26,4 @@ Add your context and tables
 Add your different product concepts stuff here
 
 ## Step Six (video link)
-Embedded a YouTube video that covers the 
+(https://youtu.be/C76osXtpLeM?si=cLpY0jbf3aVy3klt)
