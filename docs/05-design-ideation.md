@@ -125,7 +125,24 @@ For each user need and product requirement, brainstorm 5 different product featu
 
 ## Step Three
 
-Add your context and tables
+<img width="2236" height="1251" alt="Screenshot 2026-09-26 011506" src="https://github.com/user-attachments/assets/4a6b476e-c304-4817-8e11-6349f56834eb" />
+<img width="2248" height="1259" alt="Screenshot 2026-09-26 011804" src="https://github.com/user-attachments/assets/acc06211-d03d-414d-b0db-f9e755d619a2" />
+<img width="2243" height="1255" alt="Screenshot 2026-09-26 011753" src="https://github.com/user-attachments/assets/8838ab0d-39c7-4092-8ea8-6137638b4a8e" />
+<img width="2248" height="1269" alt="Screenshot 2026-09-26 011744" src="https://github.com/user-attachments/assets/00a9d119-3e9c-4c6a-b873-467bb5f68bf5" />
+<img width="2241" height="1260" alt="Screenshot 2026-09-26 011735" src="https://github.com/user-attachments/assets/ceca5e4d-6f25-4be8-9b19-e44b7cd0e6b1" />
+<img width="2248" height="1266" alt="Screenshot 2026-09-26 011724" src="https://github.com/user-attachments/assets/0ce2d4ec-ce5a-4408-b9b5-93e006a28d71" />
+<img width="2250" height="1258" alt="Screenshot 2026-09-26 011714" src="https://github.com/user-attachments/assets/328f2ac8-363d-4fe3-977b-0d2e749cf903" />
+<img width="2254" height="1256" alt="Screenshot 2026-09-26 011705" src="https://github.com/user-attachments/assets/46779b9b-7aa7-40bd-869c-c769f1983388" />
+<img width="2234" height="1264" alt="Screenshot 2026-09-26 011653" src="https://github.com/user-attachments/assets/c11f7806-362a-4b33-90ad-cddf30a47fb0" />
+<img width="2243" height="1259" alt="Screenshot 2026-09-26 011642" src="https://github.com/user-attachments/assets/f883743a-d411-4681-b46a-f35eb29829be" />
+<img width="2248" height="1267" alt="Screenshot 2026-09-26 011628" src="https://github.com/user-attachments/assets/2cd912b9-49c7-4a47-b802-d5f6ca8260ac" />
+<img width="2246" height="1253" alt="Screenshot 2026-09-26 011619" src="https://github.com/user-attachments/assets/ed0a6ef4-791f-4177-88ba-3df023fb1e96" />
+<img width="2234" height="1253" alt="Screenshot 2026-09-26 011609" src="https://github.com/user-attachments/assets/39da733d-20c3-4ad5-a6b4-9a2d6f4d3ca9" />
+<img width="2253" height="1256" alt="Screenshot 2026-09-26 011555" src="https://github.com/user-attachments/assets/693d196b-d22b-4b95-a9a1-7b1e38404025" />
+<img width="2243" height="1250" alt="Screenshot 2026-09-26 011544" src="https://github.com/user-attachments/assets/25920d0a-5014-4345-a65a-e7b511894144" />
+<img width="2240" height="1255" alt="Screenshot 2026-09-26 011530" src="https://github.com/user-attachments/assets/7fd9e219-8a7f-4538-b96e-caaac5b89c3a" />
+<img width="2509" height="1315" alt="Screenshot 2026-09-26 012238" src="https://github.com/user-attachments/assets/83116714-e45e-408f-b53e-018ab4efa12f" />
+
 
 ## Step Four
 
