@@ -13,8 +13,8 @@ For each user need and product requirement, brainstorm 5 different product featu
 
 |                   requirement / need | feature | detail                                                                      |
 | -----------------------------------: | :-----: | --------------------------------------------------------------------------- |
-| product provides clear notifications | buzzer  | the device provides different sounding tones and patterns for each function |
-| product provides clear notifications | speaker | the device can emit full waveforms                                          |
+| product provides clear notifications | Sensor  | the device provides different clothing types and notices when clothing is put down. |
+| product provides clear notifications | Motor | the device creates the folding action in order for the device to function.                                          |
 |                                   .. |   ..    | ..                                                                          |
 
 ## Step Three
