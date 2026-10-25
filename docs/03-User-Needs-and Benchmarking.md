@@ -213,7 +213,7 @@ https://www.amazon.com/s?k=clothes+iron+heat+press
 
 ### Selected Products
 
-#### 1. [OGHom 2-in-1 Iron & Steamer for Clothes](https://www.amazon.com/OGHom-Steamer-Clothes-Handheld-Garment/dp/B0GXY76NQC)
+#### 1. [OGHom 2-in-1 Iron & Steamer for Clothes](https://www.amazon.com/OGHom-Steamer-Clothes-Handheld-Garment/dp/B0GXY76NQC) (link to the product)
 
 <img width="1079" height="1500" alt="OGHom 2-in-1 Iron & Steamer" src="https://m.media-amazon.com/images/I/7166gnQ+9jL._AC_SL1500_.jpg" />
 
