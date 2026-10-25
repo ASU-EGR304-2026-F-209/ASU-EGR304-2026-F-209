@@ -7,7 +7,7 @@ tags:
 
 ## Team Charter
 
-From the initial team meeting, which can be reviewed in ["Appendix: Team Organization"](https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/App-Team-Org/), the team's charter formed to be:
+From the initial team meeting, which can be reviewed in ["Appendix: Team Organization"](https://asu-egr304-2026-f-209.github.io/ASU-EGR304-2026-F-209/Appendix/App-Team-Org/), the team's charter formed to be:
 
 > "Our team measures our success based on the effort we put forth to achieve our goals and help our teammates. We strive to address every problem we encounter with integrity, accountability, and optimism so that we may learn, improve, and deliver a carefully desgined engineering project."
 
