@@ -34,7 +34,7 @@ Carlos places a garment into the automated laundry folding device and selects th
 
 **1. Hardware / Product Design**
 
-* **1.1** The product shall use an automated mechanical folding mechanism capable of folding common household garments, including shirts, pants, and towels.
+* **1.1** The product shall use an automated mechanical folding mechanism capable of folding common household garments, including shirts and towels.
 
 * **1.2** The product shall be compact enough to fit within a typical household laundry area or on a standard countertop or table.
 
