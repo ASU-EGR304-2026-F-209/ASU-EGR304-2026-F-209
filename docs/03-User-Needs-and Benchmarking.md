@@ -8,8 +8,7 @@ title: User Needs and Benchmarking
 
 **Keywords:** "laundry folding device"
 
-**Search Results Link:** 
-https://www.amazon.com/s?k=laundry+golding+device&crid=2M77VR378QPZK&sprefix=laundry+folding+devic%2Caps%2C312&ref=nb_sb_noss_2
+**Search Results Link:** https://www.amazon.com/s?k=laundry+golding+device&crid=2M77VR378QPZK&sprefix=laundry+folding+devic%2Caps%2C312&ref=nb_sb_noss_2
 
 ### Selected Products
 
