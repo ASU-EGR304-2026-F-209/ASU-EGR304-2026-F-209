@@ -59,7 +59,7 @@ title: User Needs and Benchmarking
 
 **Keywords:** ""Laundry Device"
 
-**Search Results Link:** https://www.amazon.com/dp/B0F6TP8JSW?lv=shuf&psc=1&_encoding=UTF8&channelId=751&ref_=cm_sw_r_cp_ud_dp_ENXCRRHNG9S5AM3BNJ9T
+**Search Results Link:** https://www.amazon.com/s?k=laundry+device&crid=HSSPNQG3YI42&sprefix=laundry+device%2Caps%2C183&ref=nb_sb_noss_1
 
 #### 2. [Wall Mounted Drying Rack](https://www.amazon.com/dp/B0F6TP8JSW?) (link to the product)
 
