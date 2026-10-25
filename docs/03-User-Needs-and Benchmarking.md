@@ -107,11 +107,11 @@ https://www.amazon.com/s?k=laundry+golding+device&crid=2M77VR378QPZK&sprefix=lau
 
 **Keywords:** "rolling shirt folder"
 
-**Search Results Link:** [eBay Search Results](https://www.ebay.com/sch/i.html?_nkw=rolling+shirt+folder)
+**Search Results Link:** https://www.ebay.com/sch/i.html?_nkw=rolling+shirt+folder
 
 ### Selected Products
 
-#### 3. [Shirt Folding Board](https://www.ebay.com/itm/307047973730)
+#### 3. [Calm Green Shirt Folding Board](https://www.ebay.com/itm/307047973730) (link to the product)
 
 <img width="1477" height="1148" alt="image" src="https://i.ebayimg.com/images/g/8QcAAeSwHBRqTThS/s-l1600.webp" />
 
