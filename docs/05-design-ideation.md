@@ -150,8 +150,8 @@ In the end, the team looked at the various designs and chose three concepts whic
 <img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 4" src="https://github.com/user-attachments/assets/91fb234c-a5dd-4425-979f-5c49873fa33d" />
 <img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 5" src="https://github.com/user-attachments/assets/89c2b2f6-f48c-4cce-9d61-1ed496ad422c" />
 <img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 6" src="https://github.com/user-attachments/assets/c0b13196-1d01-4e95-b1d4-829999b22c8d" />
-<img width="2509" height="1315" alt="Screenshot 2026-09-26 012238" src="https://github.com/user-attachments/assets/83116714-e45e-408f-b53e-018ab4efa12f" />
-<img width="2204" height="1248" alt="Screenshot 2026-09-26 012531" src="https://github.com/user-attachments/assets/c1cfd1b5-6b9d-43a2-a0be-6bb2c2181a27" />
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 1 (1)" src="https://github.com/user-attachments/assets/d5584bd0-bf1f-4de9-b2ef-d10d10c57863" />
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 2 (1)" src="https://github.com/user-attachments/assets/941ed3a7-c1e8-4c81-b452-e7749aafbcd1" />
 
 ## Step Four
 
