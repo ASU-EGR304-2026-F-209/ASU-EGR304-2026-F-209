@@ -155,9 +155,9 @@ In the end, the team looked at the various designs and chose three concepts whic
 
 ## Step Four
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/7c6fa0ea-2af1-4e11-9d8f-aaaaa3ffcf6a" />
-<img width="2251" height="2057" alt="image" src="https://github.com/user-attachments/assets/79c25d23-0868-49e3-b0ec-7353bb755d7c" />
-<img width="3035" height="1995" alt="image" src="https://github.com/user-attachments/assets/61e3dec1-9a56-4fa5-8509-7e0a790aa08e" />
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 3 (2)" src="https://github.com/user-attachments/assets/8e001a88-fc1b-42ea-86e8-9b3d4e769d53" />
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 4 (1)" src="https://github.com/user-attachments/assets/fc65302b-b7f5-4077-a760-9a8e1f072274" />
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 5 (1)" src="https://github.com/user-attachments/assets/e8593cb7-a451-4aac-816c-fe98bc52897e" />
 
 ## Step Five
 
