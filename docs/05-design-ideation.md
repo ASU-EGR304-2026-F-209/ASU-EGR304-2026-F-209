@@ -117,7 +117,7 @@ title: Design Ideation
 | Product is low cost | Laser-cut sheet panels | Use inexpensive acrylic or plywood sheet for folding surfaces. |
 | Product is low cost | Passive spring return | Springs return panels to their home position, removing the need for a second actuator. |
 
-## Step Three
+## Sorting, Ranking and, Refinement
 
 <img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 7" src="https://github.com/user-attachments/assets/8f487be5-f5a4-4032-851f-9acfec431dc4" />
 <img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 8" src="https://github.com/user-attachments/assets/1393a2d2-718b-4b4e-b96d-60d4dfb3be4d" />
@@ -139,7 +139,7 @@ title: Design Ideation
 <img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 1 (1)" src="https://github.com/user-attachments/assets/d5584bd0-bf1f-4de9-b2ef-d10d10c57863" />
 <img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 2 (1)" src="https://github.com/user-attachments/assets/941ed3a7-c1e8-4c81-b452-e7749aafbcd1" />
 
-## Step Four
+## Concept Generation
 
 <img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 3 (2)" src="https://github.com/user-attachments/assets/8e001a88-fc1b-42ea-86e8-9b3d4e769d53" />
 <img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 4 (1)" src="https://github.com/user-attachments/assets/fc65302b-b7f5-4077-a760-9a8e1f072274" />
@@ -158,6 +158,3 @@ The team members then took time on their own to develop a full design by combini
 Once the individual concepts had been finished, the team came back together to compare the various designs. The features and concepts were mainly ranked according to their cost-effectiveness and the frequency with which similar methods appeared during our research into existing designs. Solutions that were frequently used were taken into account since their repeated application offered examples of how such approaches could be applied in a garment-folding system, and cost-effectiveness allowed the team to assess whether a solution was reasonable given the scope of the project. The team also looked at how the different components functioned together in each complete concept.
 
 In the end, the team looked at the various designs and chose three concepts which we thought offered clear and effective ways of addressing the design problem. Instead of picking three designs that were almost the same, we went for concepts that showed different combinations of the features that had been developed during the brainstorming phase. The three concepts thus chosen were included in the project and used to illustrate the various possible avenues for the automated garment-folding system. By following this procedure, the team was able to progress in a systematic manner from the initial broad brainstorming through grouping and ranking the features to the development of three full product concepts, as the ideation process required.
-
-## Step Six (video link)
-(https://youtu.be/C76osXtpLeM?si=cLpY0jbf3aVy3klt)
