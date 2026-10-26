@@ -135,6 +135,24 @@ The team first brainstormed categories of needs that were unique and necessary f
 
 ## Step Three
 
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 7" src="https://github.com/user-attachments/assets/8f487be5-f5a4-4032-851f-9acfec431dc4" />
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 8" src="https://github.com/user-attachments/assets/1393a2d2-718b-4b4e-b96d-60d4dfb3be4d" />
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 9" src="https://github.com/user-attachments/assets/7f8dceaf-7b29-4d91-a62c-b0cbfe9899c8" />
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 10" src="https://github.com/user-attachments/assets/12da6341-c0e6-42b0-8c2e-5dadd1efe694" />
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 17" src="https://github.com/user-attachments/assets/b2d29c3c-5816-49b9-be9c-7caf638a0d21" />
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 16" src="https://github.com/user-attachments/assets/0decfc91-ef9b-4353-88b6-932c4fdf4445" />
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 15" src="https://github.com/user-attachments/assets/e3f7c529-cabc-4c3e-bf03-fa56c85531de" />
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 14" src="https://github.com/user-attachments/assets/fbdc17f0-2420-4b31-8e73-fe7bfd6bcb28" />
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 13" src="https://github.com/user-attachments/assets/efe2ede3-aae9-4b1c-a357-0a27350d08fe" />
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 12" src="https://github.com/user-attachments/assets/b1d586df-af53-45f1-9491-860e23af2b1a" />
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 11" src="https://github.com/user-attachments/assets/9dec9623-2990-4c73-9f1d-f4f10a831a70" />
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 1" src="https://github.com/user-attachments/assets/efc84cde-3f3f-46b6-9dd2-4e285dff7070" />
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 2" src="https://github.com/user-attachments/assets/4e2b1927-e9a1-48b8-9eb1-b25666ddb8f5" />
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 3" src="https://github.com/user-attachments/assets/7a276785-f9fc-4f38-af86-c27368b4ea80" />
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 4" src="https://github.com/user-attachments/assets/91fb234c-a5dd-4425-979f-5c49873fa33d" />
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 5" src="https://github.com/user-attachments/assets/89c2b2f6-f48c-4cce-9d61-1ed496ad422c" />
+<img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 6" src="https://github.com/user-attachments/assets/c0b13196-1d01-4e95-b1d4-829999b22c8d" />
+
 <img width="2236" height="1251" alt="Screenshot 2026-09-26 011506" src="https://github.com/user-attachments/assets/4a6b476e-c304-4817-8e11-6349f56834eb" />
 <img width="2248" height="1259" alt="Screenshot 2026-09-26 011804" src="https://github.com/user-attachments/assets/acc06211-d03d-414d-b0db-f9e755d619a2" />
 <img width="2243" height="1255" alt="Screenshot 2026-09-26 011753" src="https://github.com/user-attachments/assets/8838ab0d-39c7-4092-8ea8-6137638b4a8e" />
@@ -159,6 +177,8 @@ The team first brainstormed categories of needs that were unique and necessary f
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/7c6fa0ea-2af1-4e11-9d8f-aaaaa3ffcf6a" />
 <img width="2251" height="2057" alt="image" src="https://github.com/user-attachments/assets/79c25d23-0868-49e3-b0ec-7353bb755d7c" />
 <img width="3035" height="1995" alt="image" src="https://github.com/user-attachments/assets/61e3dec1-9a56-4fa5-8509-7e0a790aa08e" />
+
+## Step Five
 
 ## Step Six (video link)
 (https://youtu.be/C76osXtpLeM?si=cLpY0jbf3aVy3klt)
