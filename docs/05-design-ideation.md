@@ -18,8 +18,6 @@ In the end, the team looked at the various designs and chose three concepts whic
 
 ## Generating Ideas
 
-The team first brainstormed categories of needs that were unique and necessary for a satisfactory garment-folding product. For each category, we then brainstormed product features that could satisfy it by listing every idea that came to mind, and narrowed that list down based on what was feasible.
-
 | requirement / need | feature | detail |
 | --- | --- | --- |
 | Product automatically folds garments after they are loaded | Electric linear actuator | Extends and retracts to rotate hinged folding panels. |
