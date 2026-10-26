@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name<br>
+<font size="8">Automated Laundry Folding Device<br>
 <font size="5">Team 209<br>
 **Submission: September, 04, 2026**<br>
 FALL 2026<br>
@@ -19,7 +19,9 @@ Professor Kevin Nichols<br>
 ## Team Introduction
 Welcome to the official project website for Team 209 in EGR 304 at Arizona State University.
 
-Our team is developing a device, an embedded systems solution designed to improve the lives of those around us. This website serves as our living project report, documenting our team's progress from initial planning through design, implementation, testing, and final evaluation.
+Our team is developing an automated laundry folding device dedicated to make folding clothes easier, faster, and more convenient. By combining mechanical components, sensors, and embedded control systems, we aim to create a smart solution that simplifies everyday chores with minimal human assistance.
+
+This website documents our progress throughout the project, from initial planning and component selection to design, assembly, testing, and final evaluation.
 
 
 ## Team Members Datasheet links
