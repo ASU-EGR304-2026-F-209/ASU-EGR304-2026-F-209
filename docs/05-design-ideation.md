@@ -53,7 +53,6 @@ For each user need and product requirement, brainstorm 5 different product featu
 | Product is safe during operation | Guarded hinges | Covers pinch points created by the folding-panel hinges. |
 | Product produces consistent and neat folds | Alignment sensors | Detect whether the garment is positioned correctly before folding. |
 | Product produces consistent and neat folds | Folding guides | Keep the garment aligned while the folding sequence occurs. |
-| Product produces consistent and neat folds | Servo-controlled arms | Provide precise and repeatable folding movements. |
 | Product produces consistent and neat folds | Compression plate | Flattens the garment after the folding sequence is completed. |
 | Product produces consistent and neat folds | Adjustable fold settings | Change folding dimensions for different garment types. |
 | Product produces consistent and neat folds | Position stops | Ensure folding panels repeatedly stop at the same positions. |
@@ -71,6 +70,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 | Product detects proper garment positioning | Photoelectric sensors | Detect when garment material interrupts a light beam at specific positions. |
 | Product detects when a garment has been loaded | Load cell | Measures an increase in weight when a garment is placed on the platform. |
 | Product detects when a garment has been loaded | Pressure sensor | Detects pressure caused by a garment resting on the folding surface. |
+| Product detects when a garment has been loaded | Photoresistor | Detects change in light intensity when garment is placed. |
 | Product detects when a garment has been loaded | Infrared sensor | Detects the presence of a garment without physical contact. |
 | Product detects when a garment has been loaded | Camera sensor | Visually detects when clothing has been placed on the machine. |
 | Product detects when a garment has been loaded | Ultrasonic sensor | Detects a garment by measuring its distance from the sensor. |
@@ -103,7 +103,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 | Product operates quickly | Simultaneous panel movement | Allows compatible folding mechanisms to move at the same time. |
 | Product operates quickly | Optimized folding sequence | Reduces unnecessary movements during each folding cycle. |
 | Product operates quickly | Fast-response sensors | Detect garments and mechanism positions with minimal delay. |
-| Product operates quickly | High-speed servo motors | Rapidly rotate folding components to commanded positions. |
+| Product operates quickly | High-speed DC motors | Rapidly rotate folding components to commanded positions. |
 | Product operates quickly | Automatic cycle start | Eliminates the need for the user to manually start each folding cycle. |
 | Product prevents garments from shifting during folding | High-friction platform | Helps prevent fabric from sliding while folding panels move. |
 | Product prevents garments from shifting during folding | Garment clamps | Temporarily hold selected areas of the garment in place. |
