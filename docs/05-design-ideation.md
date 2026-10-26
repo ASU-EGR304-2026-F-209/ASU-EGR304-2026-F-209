@@ -20,8 +20,8 @@ In the end, the team looked at the various designs and chose three concepts whic
 
 The team first brainstormed categories of needs that were unique and necessary for a satisfactory garment-folding product. For each category, we then brainstormed product features that could satisfy it by listing every idea that came to mind, and narrowed that list down based on what was feasible.
 
-| Requirement / Need | Feature | Detail |
-| --- | :---: | --- |
+| requirement / need | feature | detail |
+| --- | --- | --- |
 | Product automatically folds garments after they are loaded | Electric linear actuator | Extends and retracts to rotate hinged folding panels. |
 | Product automatically folds garments after they are loaded | Stepper motor | Moves the folding mechanism in precise increments. |
 | Product automatically folds garments after they are loaded | Pneumatic piston | Uses compressed air to produce linear folding motion. |
@@ -29,7 +29,7 @@ The team first brainstormed categories of needs that were unique and necessary f
 | Product automatically folds garments after they are loaded | Motor-driven linkage | Transfers motor rotation into movement of the folding panels. |
 | Product automatically folds garments after they are loaded | Hinged folding panels | Rotate around the garment to perform a sequence of folds. |
 | Product automatically folds garments after they are loaded | Hydraulic cylinder | Uses pressurized fluid to extend or retract a piston that moves a folding panel. |
-| Product automatically folds garments after they are loaded | Rotary pneumatic actuator | Uses compressed air to produce rotational motion directly. |
+| Product automatically folds garments after they are loaded | Rotary pneumatic actuator | Uses compressed air to produce rotational motion directly, rather than the linear motion of a pneumatic piston. |
 | Product indicates when folding starts and when it is completed | Buzzer | Produces a tone to indicate that the folding cycle is complete. |
 | Product indicates when folding starts and when it is completed | LED lights | Change state to indicate whether the machine is ready, folding, or finished. |
 | Product indicates when folding starts and when it is completed | Speaker | Produces different sounds for different machine states. |
@@ -62,12 +62,6 @@ The team first brainstormed categories of needs that were unique and necessary f
 | Product is easy to operate | Status LED | Shows whether the machine is ready, operating, or finished. |
 | Product is easy to operate | Automatic start sensor | Begins folding automatically after a garment is correctly positioned. |
 | Product is easy to operate | Labeled control buttons | Clearly identify the function of each user control. |
-| Product detects proper garment positioning | Camera sensor | Identifies whether the garment is positioned correctly before folding. |
-| Product detects proper garment positioning | Infrared sensors | Detect the presence and approximate position of the garment. |
-| Product detects proper garment positioning | Pressure sensors | Detect garment position through weight applied to the platform. |
-| Product detects proper garment positioning | Limit switches | Detect whether the garment reaches a designated loading position. |
-| Product detects proper garment positioning | Optical sensors | Detect garment edges to determine alignment. |
-| Product detects proper garment positioning | Photoelectric sensors | Detect when garment material interrupts a light beam at specific positions. |
 | Product detects when a garment has been loaded | Load cell | Measures an increase in weight when a garment is placed on the platform. |
 | Product detects when a garment has been loaded | Pressure sensor | Detects pressure caused by a garment resting on the folding surface. |
 | Product detects when a garment has been loaded | Photoresistor | Detects change in light intensity when garment is placed. |
@@ -87,12 +81,6 @@ The team first brainstormed categories of needs that were unique and necessary f
 | Product detects when the folding process is done | Timer | Determines completion based on the expected folding-cycle duration. |
 | Product detects when the folding process is done | Position sensor | Detects whether the folding panels have returned to their final positions. |
 | Product detects when the folding process is done | Camera verification | Checks the garment after folding to determine whether the process is complete. |
-| Product folds garments into a consistent shape | Fixed folding panels | Produce folds at the same locations during each folding cycle. |
-| Product folds garments into a consistent shape | Adjustable folding panels | Allow final folded dimensions to be changed for different garments. |
-| Product folds garments into a consistent shape | Alignment guides | Place garments at a repeatable starting position. |
-| Product folds garments into a consistent shape | Preset fold dimensions | Store predetermined final dimensions for different garment types. |
-| Product folds garments into a consistent shape | Mechanical stops | Limit folding-panel movement to repeatable positions. |
-| Product folds garments into a consistent shape | Compression frame | Holds the finished garment in a consistent rectangular shape. |
 | Product is lightweight and durable | ABS plastic frame | Provides a lightweight structure with good impact resistance. |
 | Product is lightweight and durable | Polycarbonate panels | Provide lightweight folding surfaces with high durability. |
 | Product is lightweight and durable | Ribbed plastic panels | Increase panel stiffness without greatly increasing material weight. |
@@ -123,6 +111,27 @@ The team first brainstormed categories of needs that were unique and necessary f
 | Product is easy to maintain | Replaceable hinges | Allow worn folding-panel hinges to be replaced individually. |
 | Product is easy to maintain | Detachable wiring connectors | Allow electrical components to be disconnected without cutting wires. |
 | Product is easy to maintain | Diagnostic indicator | Helps identify faults in sensors, actuators, or other components. |
+| Product recovers from jams or faults | Auto-reverse routine | Reverses the jammed folding panel a short distance to release the garment. |
+| Product recovers from jams or faults | Retry logic | Attempts a failed fold again a set number of times before stopping. |
+| Product recovers from jams or faults | Fault code display | Shows a code on the screen or LEDs that identifies the type of fault. |
+| Product recovers from jams or faults | Encoder stall detection | Detects a jam when the motor encoder count stops changing during a commanded move. |
+| Product recovers from jams or faults | Manual release lever | Allows the user to free a jammed panel by hand. |
+| Product recovers from jams or faults | Watchdog timer | Resets the microcontroller if the software stops responding. |
+| Product recovers from jams or faults | Return-to-home routine | Moves all panels back to their starting positions after a fault so the garment can be removed. |
+| Product is quiet during operation | Rubber vibration mounts | Isolate motor vibration from the frame. |
+| Product is quiet during operation | Soft-start motor control | Ramps motor speed up gradually to reduce start-up noise. |
+| Product is quiet during operation | Sound-dampening foam | Lines the enclosure to absorb motor and mechanism noise. |
+| Product is quiet during operation | Brushless DC motors | Run more quietly than brushed motors. |
+| Product is quiet during operation | Nylon gears | Produce less noise than metal gears. |
+| Product is quiet during operation | Speed-limited panel travel | Slows panels near the end of their travel to reduce impact noise. |
+| Product is quiet during operation | Soft bump stops | Rubber pads cushion panels at their end positions. |
+| Product is low cost | Off-the-shelf components | Use standard, readily available parts instead of custom-made ones. |
+| Product is low cost | Shared motor across folds | One motor drives multiple folding panels through a linkage. |
+| Product is low cost | 3D-printed brackets and hinges | Replace purchased hardware with inexpensive printed parts. |
+| Product is low cost | Single microcontroller | Controls all sensors and actuators without additional processors. |
+| Product is low cost | Hobby servo motors | Provide low-cost positioning for light folding panels. |
+| Product is low cost | Laser-cut sheet panels | Use inexpensive acrylic or plywood sheet for folding surfaces. |
+| Product is low cost | Passive spring return | Springs return panels to their home position, removing the need for a second actuator. |
 
 ## Step Three
 
