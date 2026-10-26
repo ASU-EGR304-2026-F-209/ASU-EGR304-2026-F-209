@@ -18,7 +18,7 @@ In the end, the team looked at the various designs and chose three concepts whic
 
 ## Generating Ideas
 
-For each user need and product requirement, brainstorm 5 different product features that could be used to satisfy that requirement.
+The team first brainstormed categories of needs that were unique and necessary for a satisfactory garment-folding product. For each category, we then brainstormed product features that could satisfy it by listing every idea that came to mind, and narrowed that list down based on what was feasible.
 
 | Requirement / Need | Feature | Detail |
 | --- | :---: | --- |
