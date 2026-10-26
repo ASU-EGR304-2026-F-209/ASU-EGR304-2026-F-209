@@ -29,7 +29,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 | Product automatically folds garments after they are loaded | Motor-driven linkage | Transfers motor rotation into movement of the folding panels. |
 | Product automatically folds garments after they are loaded | Hinged folding panels | Rotate around the garment to perform a sequence of folds. |
 | Product automatically folds garments after they are loaded | Hydraulic cylinder | Uses pressurized fluid to extend or retract a piston that moves a folding panel. |
-| Product automatically folds garments after they are loaded | Rotary pneumatic actuator | uses compressed air to produce rotational motion directly, rather than the linear motion of your pneumatic piston. |
+| Product automatically folds garments after they are loaded | Rotary pneumatic actuator | Uses compressed air to produce rotational motion directly. |
 | Product indicates when folding starts and when it is completed | Buzzer | Produces a tone to indicate that the folding cycle is complete. |
 | Product indicates when folding starts and when it is completed | LED lights | Change state to indicate whether the machine is ready, folding, or finished. |
 | Product indicates when folding starts and when it is completed | Speaker | Produces different sounds for different machine states. |
