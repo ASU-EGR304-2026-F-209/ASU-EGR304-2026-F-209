@@ -28,7 +28,7 @@ This website documents our progress throughout the project, from initial plannin
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Kristen Giovanetto     | Fixing |
+| Kristen Giovanetto     | https://kristen-giovanetto.github.io/Kgiovane_EGR314_Indiv_data/ |
 | Diego Suarez           | https://github.com/dsuare10/dsuare10_EGR304_F26.github.io |
 | Zainan Zarif           | https://zainanzarif.github.io/ZainanZarif_EGR304_F26.github.io/ |
 | Ruben Esquer           | https://github.com/rdesquer-png/rdesquer-png_EGR304_F26.github.io |
