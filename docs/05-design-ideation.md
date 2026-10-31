@@ -145,6 +145,10 @@ title: Design Ideation
 <img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 4 (1)" src="https://github.com/user-attachments/assets/fc65302b-b7f5-4077-a760-9a8e1f072274" />
 <img width="3840" height="2160" alt="Garment Folder Features by Requirement - slide 5 (1)" src="https://github.com/user-attachments/assets/e8593cb7-a451-4aac-816c-fe98bc52897e" />
 
+## Why We Chose Concept #1
+
+Our team chose this design because our team has the most experience working with the hardware involved, including DC motors, linear actuators, and light-based sensors. This allows us to develop a more reliable system while reducing the complexity associated with learning unfamiliar components. The combination of an IR sensor and photoresistor provides two different methods of detecting the garment, allowing the system to respond to variations in lighting, garment color, and positioning. Using multiple forms of light-based detection can improve the accuracy of garment detection and reduce the likelihood of incorrect readings. Additionally, the motor- and actuator-driven hinged panels provide a simple and repeatable folding motion, making this design well suited for achieving accurate, consistent, and effective automation.
+
 ## Overview
 
 To start off, our team initiated the ideation process by setting up a shared Google Slides presentation so that each member could add their ideas to the project. During the process, communication mostly happened on Discord, where the team members were able to talk about their ideas and coordinate their individual work. The first step was to identify the design requirements that were frequently mentioned during our research into existing garment-folding designs. These requirements then formed the basis for brainstorming various features and mechanisms that could be included in our own design.
