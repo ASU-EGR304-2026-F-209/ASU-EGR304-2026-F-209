@@ -2,6 +2,6 @@
 title: Team Block Diagram
 ---
 
-<img width="3532" height="775" alt="209_Block_Diagram_(Refined) drawio (2)" src="https://github.com/user-attachments/assets/6cf52a35-980c-4248-9fca-5679663ddc0a" />
+<img src="209_Block_Diagram_(Refined)1.drawio.png" alt="209 Refined Block Diagram" width="100%">
 
 **Figure 1:** Team 209 Block Diagram for the Automated Laundry Folding Device.
